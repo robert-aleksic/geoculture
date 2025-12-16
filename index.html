@@ -151,7 +151,7 @@
 
     let t1i = document.createElement ('img');
     t1i.setAttribute ('src',pr.img);
-    t1i.setAttribute ('width',"380px");
+    t1i.setAttribute ('width',"374px");
     Intense(t1i);
     t1.appendChild(t1i);
 
@@ -245,7 +245,7 @@
   // add zoom bar
   var zoomBar = L.easyBar([
     L.easyButton('<b>+</b>', function(control, map){map.setZoom(map.getZoom()+1);}),
-    L.easyButton('<img src="css/house.svg" width="80%" height="80% style="line-height: 40px">',
+    L.easyButton('<img src="css/house.svg" width="90%" height="90%">',
       function(control, map){map.fitBounds(poi.getBounds());}),
     L.easyButton('<b>-</b>', function(control, map){map.setZoom(map.getZoom()-1);})
   ]);
@@ -286,7 +286,7 @@
   info.update = function (props) {
       this._div.innerHTML = (!props ?
           'Hover over a point' :
-            '<div><center><p><b>'+props.name+'</b> ('+props.id+') </p></center>'+
+            '<div><center><p><b>'+props.name+"</b> <small>\/"+props.id+"\/ </p></center>"+
             '<img src="' + props.img +'" width="300px">'+
           '</div>'
       );
