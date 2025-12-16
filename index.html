@@ -133,8 +133,17 @@
 
   function featureclick (e){
     // populate side panel
-    //closepanel();
+    let t = document.querySelectorAll("div.sidepanel-tab-content")[0];
+    let pr = e.target.feature.properties;
+
+    t.textContent="";
+
+    let tekstp = document.createElement('p');
+    tekstp.innerText = pr['glavni narativ uz djelo )pojavljije se kao prvi pasus)'];
+    t.appendChild(tekstp);
+
     openpanel()
+
   };
 
   //map.on('mouseover', function(e) {closepanel()});
