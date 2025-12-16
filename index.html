@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <base target="_top">
@@ -12,20 +12,24 @@
     <link rel="stylesheet" href="css/leaflet.css"/>
     <script src="js/leaflet.js"></script>
 
-    <link rel="stylesheet" href="css/coord-projection.css"/>
+    <link rel="stylesheet" href="css/markercluster.css"/>
+    <link rel="stylesheet" href="css/markercluster.default.css"/>
+    <script src="js/markercluster.js"></script>
+
+    <!--<link rel="stylesheet" href="css/coord-projection.css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.6.0/proj4.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4leaflet/1.0.2/proj4leaflet.min.js"></script>
-    <script src="js/coord-projection.js"></script>
-
-    <link rel="stylesheet" href="css/fullscreen.css" />
-    <script src="js/fullscreen.js"></script>
+    <script src="js/coord-projection.js"></script>-->
 
     <link rel="stylesheet" href="css/easy-button.css" />
     <script src="js/easy-button.js"></script>
 
-    <link rel="stylesheet" href="css/markercluster.css"/>
-    <link rel="stylesheet" href="css/markercluster.default.css"/>
-    <script src="js/markercluster.js"></script>
+    <link rel="stylesheet" href="css/fullscreen.css" />
+    <script src="js/fullscreen.js"></script>
+
+    <link rel="stylesheet" href="css/locate.min.css" />
+    <script src="js/locate.min.js"></script>
+
 
     <link rel="stylesheet" href="css/sidepanel.css" />
     <script src="js/sidepanel.js"></script>
@@ -170,6 +174,11 @@
     L.easyButton('<b>-</b>', function(control, map){map.setZoom(map.getZoom()-1);})
   ]);
   zoomBar.addTo(map);
+
+
+  // add locate
+  L.control.locate().addTo(map);
+
 
   // add fullscreen
   map.addControl(
