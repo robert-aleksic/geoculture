@@ -150,9 +150,16 @@
     t3h1.innerText = pr.fn+' '+pr.ln;
     t3.appendChild(t3h1);
 
-    let t3p = document.createElement('p');
-    t3p.innerText = pr.bio;
-    t3.appendChild(t3p);
+    //t3ps = document.createElement('p');
+    //t3ps.innerText = pr.bio.length.toString();
+    //t3.appendChild(t3ps);
+
+    let t3p = [];
+    for (let i = 0; i < pr.bio.length; i++) {
+      t3p[i] = document.createElement('p');
+      t3p[i].innerText = pr.bio[i];
+      t3.appendChild (t3p[i])
+    };
 
     openpanel()
 

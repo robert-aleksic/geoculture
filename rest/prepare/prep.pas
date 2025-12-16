@@ -12,17 +12,22 @@ const
   maxpoints=maxinfiles;
 
 type
+  longtext = record
+               a : array [1..20] of ansistring;
+               n : integer;
+             end;
+
   filerec = record n : string; t : longint end;
   authorrec = record
                 name  : string;
                 birth : string;
-                txt   : ansistring;
+                txt   : longtext;
               end;
   pointrec = record
                id       : string;
                name     : string;
                fn,ln    : string;
-               bio      : ansistring;
+               bio      : longtext;
                geometry : string;
                imgf     : string
              end;
@@ -38,22 +43,31 @@ var
   point  : array [0..maxpoints] of pointrec;
   points : integer;
 
+
+
   function sanitized (s:ansistring) : ansistring;
   var i : integer;
   begin
     sanitized := '';
     for i := 1 to length(s) do
      case s[i] of
-       chr(13) : sanitized += '/n';
-       chr(10) : sanitized += '/n';
-       '"' : sanitized += '/"';
-       else sanitized += s[i]
+       chr(13) : sanitized += '\n';
+       chr(10) : sanitized += '\n';
+       '/'     : sanitized += '\/';
+       '"'     : if (i<length(s)) and (s[i+1]='"')
+                 then sanitized += '\'
+                 else sanitized += '"';
+       else      sanitized += s[i]
      end
   end;
 
   function geomrevert (s:string) : string;
   var p,l : integer;
   begin
+    p := pos ('\n',s); // trim two line entries
+    if p>0
+    then s := copy (s,1,p-1);
+
     l := length(s);
     p := pos (',',s);
     if p=0
@@ -113,11 +127,33 @@ var
     authorfind := p
   end;
 
+  function parasplit (s:ansistring) : longtext;
+  var
+    p : integer;
+  begin
+    s := s+' ';
+    with parasplit do
+    begin
+      n := 1;
+      p := pos ('\n',s);
+      while p<>0 do
+      begin
+        a[n] := trim(copy (s,1,p-1));
+        n := n+1;
+        s := copy (s,p+2,length(s)-p-1);
+        p := pos ('\n',s)
+      end;
+      a[n] := trim(s);
+      if a[n]=''
+      then n := n-1
+    end;
+  end;
+
 var
   cf : csvfile;
   f  : text;
 
-  apos,i : integer;
+  apos,i,j : integer;
 
 begin
 
@@ -139,7 +175,7 @@ begin
       begin
         name := col[1];
         birth := col[2];
-        txt := col[3]
+        txt := parasplit (sanitized(col[3]));
       end
     end
   end;
@@ -147,7 +183,8 @@ begin
   with author[0] do
   begin
     name := 'not found';
-    txt  := 'No data'
+    txt.n:= 1;
+    txt.a[txt.n]:='No data';
   end;
 
   writeln ('processing points...');
@@ -170,7 +207,7 @@ begin
                fn   := col[7];
                ln   := col[8];
                apos := authorfind (fn,ln);
-               bio := sanitized(author[apos].txt);
+               bio := author[apos].txt;
 
                if apos=0 then writeln ('!! author not found : ',fn,' ',ln);
                imgf := imgfile (col[5]);
@@ -217,7 +254,9 @@ begin
       write (f,               ', "id": "'+id+'"');
       write (f,               ', "fn": "'+fn+'"');
       write (f,               ', "ln": "'+ln+'"');
-      write (f,               ', "bio": "'+bio+'"');
+      write (f,               ', "bio": [');
+      for j := 1 to bio.n do begin write (f,'"'+bio.a[j],'"'); if j<bio.n then write (f,', '); end;
+      write (f,                         ']');
       writeln (f,               '} }, ')
 
     end;

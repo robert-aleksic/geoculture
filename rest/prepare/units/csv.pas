@@ -180,7 +180,7 @@ var
           while not last do
           begin
             if ch=eolch
-            then s := s+' '
+            then s := s+'\n'
             else s := s+ch;
 
             getch (cf);
