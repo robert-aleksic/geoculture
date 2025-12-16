@@ -1,0 +1,155 @@
+Metadata of 1084_Vukovi Milo_eljezara
+
+The data shown is all the metadata we could automatically extract from your file. It may be neither complete nor adequate. Metadata could have been changed or deleted in the past. Please be aware that the metadata is provided without liability.
+
+ Checksum: bca01293b696615ec696216b65c663c6
+ Filename: 1084_Vukovi Milo_eljezara.jpg
+ Filesize: 956 kB
+ Filetype: JPEG
+ Filetypeextension: jpg
+ Mimetype: image/jpeg
+ Jfifversion: 1.02
+ Exifbyteorder: Little-endian (Intel, II)
+ Imagedescription: Vukovi
+ Make: NIKON CORPORATION
+ Model: NIKON D700
+ Orientation: Horizontal (normal)
+ Xresolution: 300
+ Yresolution: 300
+ Resolutionunit: inches
+ Software: ACDSee Ultimate 2025
+ Modifydate: 2025:10:13 21:42:04
+ Artist: 
+ Ycbcrpositioning: Centered
+ Copyright: lazar_pejovic
+ Exposuretime: 1/160
+ Fnumber: 9
+ Exposureprogram: Manual
+ Iso: 200
+ Datetimeoriginal: 2010:06:24 09:34:46
+ Createdate: 2010:06:24 09:34:46
+ Shutterspeedvalue: 1/160
+ Aperturevalue: 9
+ Exposurecompensation: 0
+ Maxaperturevalue: 2.8
+ Meteringmode: Multi-segment
+ Lightsource: Unknown
+ Focallength: 60.0 mm
+ Subsectime: 98
+ Subsectimeoriginal: 160
+ Subsectimedigitized: 160
+ Colorspace: sRGB
+ Exifimagewidth: 1500
+ Exifimageheight: 1078
+ Sensingmethod: One-chip color area
+ Scenetype: Directly photographed
+ Exposuremode: Manual
+ Whitebalance: Manual
+ Focallengthin35mmformat: 60 mm
+ Scenecapturetype: Standard
+ Contrast: Normal
+ Saturation: Normal
+ Sharpness: Normal
+ Subjectdistancerange: Unknown
+ Lensmodel: 
+ Xmptoolkit: XMP Core 5.5.0
+ Warning: [minor] Fixed incorrect URI for xmlns:MicrosoftPhoto
+ Compression: LZW
+ Photometricinterpretation: RGB
+ Samplesperpixel: 3
+ Planarconfiguration: Chunky
+ Nativedigest: 256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;B4F5838ADA585ED3514D4CA595AC4BF4
+ Isospeedrating: 200
+ Datecreated: 2010:06:24
+ Colormode: RGB
+ Iccprofilename: sRGB IEC61966-2.1
+ History: 
+ Captionwriter: 1961
+ Rating: 0
+ Metadatadate: 2010:06:26 21:17:40+02:00
+ Creatortool: Adobe Photoshop CS3 Windows
+ Rights: lazar_pejovic
+ Format: image/tiff
+ Subject: 
+ Creator: 
+ Description: Vukovi
+ Title: eljezara
+ Instanceid: uuid:DF20B2645781DF11B990BBD71304D253
+ Lastkeywordiptc: 
+  0: Lazar Pejovi
+  1: Crnogorska zbirka
+ Lastkeywordiptc Tiff Irb: 
+  0: Lazar Pejovi
+  1: Crnogorska zbirka
+ Creatorworkurl: https://narodnimuzej.me/
+ Creatorworkemail: NMCG
+ Subjectcode: 1020000
+ Profilecmmtype: Linotronic
+ Profileversion: 2.1.0
+ Profileclass: Display Device Profile
+ Colorspacedata: RGB
+ Profileconnectionspace: XYZ
+ Profiledatetime: 1998:02:09 06:49:00
+ Profilefilesignature: acsp
+ Primaryplatform: Microsoft Corporation
+ Cmmflags: Not Embedded, Independent
+ Devicemanufacturer: Hewlett-Packard
+ Devicemodel: sRGB
+ Deviceattributes: Reflective, Glossy, Positive, Color
+ Renderingintent: Media-Relative Colorimetric
+ Connectionspaceilluminant: 0.9642 1 0.82491
+ Profilecreator: Hewlett-Packard
+ Profileid: 0
+ Profilecopyright: Copyright (c) 1998 Hewlett-Packard Company
+ Profiledescription: sRGB IEC61966-2.1
+ Mediawhitepoint: 0.95045 1 1.08905
+ Mediablackpoint: 0 0 0
+ Redmatrixcolumn: 0.43607 0.22249 0.01392
+ Greenmatrixcolumn: 0.38515 0.71687 0.09708
+ Bluematrixcolumn: 0.14307 0.06061 0.7141
+ Devicemfgdesc: IEC http://www.iec.ch
+ Devicemodeldesc: IEC 61966-2.1 Default RGB colour space - sRGB
+ Viewingconddesc: Reference Viewing Condition in IEC61966-2.1
+ Viewingcondilluminant: 19.6445 20.3718 16.8089
+ Viewingcondsurround: 3.92889 4.07439 3.36179
+ Viewingcondilluminanttype: D50
+ Luminance: 76.03647 80 87.12462
+ Measurementobserver: CIE 1931
+ Measurementbacking: 0 0 0
+ Measurementgeometry: Unknown
+ Measurementflare: 0.999%
+ Measurementilluminant: D65
+ Technology: Cathode Ray Tube Display
+ Redtrc: (Binary data 2060 bytes)
+ Greentrc: (Binary data 2060 bytes)
+ Bluetrc: (Binary data 2060 bytes)
+ Currentiptcdigest: e0d563a3fcf9057bf24a5d8db3791c80
+ Codedcharacterset: UTF8
+ Writer-editor: 1961
+ Objectname: eljezara
+ Subjectreference: 1020000
+ Headline: Milo
+ Caption-abstract: Vukovi
+ Iptcdigest: e0d563a3fcf9057bf24a5d8db3791c80
+ Imagewidth: 1500
+ Imageheight: 1078
+ Encodingprocess: Baseline DCT, Huffman coding
+ Bitspersample: 8
+ Colorcomponents: 3
+ Ycbcrsubsampling: YCbCr4:2:2 (2 1)
+ Aperture: 9
+ Imagesize: 1500x1078
+ Megapixels: 1.6
+ Scalefactor35efl: 1
+ Shutterspeed: 1/160
+ Subseccreatedate: 2010:06:24 09:34:46.160
+ Subsecdatetimeoriginal: 2010:06:24 09:34:46.160
+ Subsecmodifydate: 2025:10:13 21:42:04.98
+ Flash: No Flash
+ Circleofconfusion: 0.030 mm
+ Fov: 33.4 deg
+ Focallength35efl: 60.0 mm (35 mm equivalent: 60.0 mm)
+ Hyperfocaldistance: 13.31 m
+ Lightvalue: 12.7
+ Category: image
+ Raw Header: FF D8 FF E0 00 10 4A 46 49 46 00 01 02 00 00 01 00 01 00 00 FF E1 03 28 45 78 69 66 00 00 49 49 2A 00 08 00 00 00 0D 00 0E 01 02 00 0B 00 00 00 AA 00 00 00 0F 01 02 00 12 00 00 00 B5 00 00 00 10 01 02 00 0B 00 00 00 C7 00 00 00 12 01 03 00 01 00 00 00 01 00 00 00 1A 01 05 00 01 00 00 00 D2 00 00 00 1B 01 05 00 01 00 00 00 DA 00 00 00 28 01 03 00 01 00 00 00 02 00 00 00 31 01 02 00

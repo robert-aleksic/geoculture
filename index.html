@@ -36,7 +36,7 @@
     <link rel="stylesheet" href="css/sidepanel.css" />
     <script src="js/sidepanel.js"></script>
 
-    <script src="data/poi.js"></script>
+    <script src="poi.js"></script>
 
   <style>
     html, body {
@@ -102,6 +102,8 @@
 </div>
 
 <script>
+  var debug = true;
+
   const map = L.map('map', {zoomControl: false, zoomSnap: 0.5});
 
   const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -243,25 +245,24 @@
 
 
   // info
-  var info = L.control();
+  var info = L.control({position : 'bottomleft'});
 
   info.onAdd = function (map) {
-      this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+      this._div = L.DomUtil.create('div', 'info');
       this.update();
       return this._div;
   };
 
-  // method that we will use to update the control based on feature properties passed
   info.update = function (props) {
       this._div.innerHTML = (!props ?
           'Hover over a point' :
-          '<div><center><p><b>'+props.name+'</b></p></center> <img src="' + props.img +'" width="400px"></div>'
+            '<div><center><p><b>'+props.name+'</b> ('+props.id+') </p></center>'+
+            '<img src="' + props.img +'" width="300px">'+
+          '</div>'
       );
   };
 
-  info.addTo(map);
-
-  //map.on('click', function(e) {closepanel()});
+  if (debug) {info.addTo(map)}
 
 </script>
 </body>
