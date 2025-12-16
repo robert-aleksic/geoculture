@@ -9,6 +9,8 @@
 
   <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
+    <link rel="stylesheet" href="css/base.css"/>
+
     <link rel="stylesheet" href="css/leaflet.css"/>
     <script src="js/leaflet.js"></script>
 
@@ -100,7 +102,7 @@
 </div>
 
 <script>
-  const map = L.map('map', {zoomControl: false});
+  const map = L.map('map', {zoomControl: false, zoomSnap: 0.5});
 
   const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -116,7 +118,7 @@
 
     if (!opened) {L.DomUtil.addClass(pandom,'opened')};
     if (closed)  {L.DomUtil.removeClass(pandom,'closed')}
-  }
+  };
 
   function closepanel(){
     let pandom = L.DomUtil.get('attributes');
@@ -126,9 +128,16 @@
 
     if (opened)  {L.DomUtil.removeClass(pandom,'opened')};
     if (!closed) {L.DomUtil.addClass(pandom,'closed')}
-  }
+  };
 
 
+  function featureclick (e){
+    // populate side panel
+    //closepanel();
+    openpanel()
+  };
+
+  //map.on('mouseover', function(e) {closepanel()});
 
   // points & clusters
   var style_poi = {
@@ -140,10 +149,26 @@
     fillOpacity: 0.8
   };
 
+  function highlightFeature(e) {
+      info.update(e.target.feature.properties);
+  };
+
+  function resetHighlight(e) {
+      info.update();
+  };
+
+  function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight,
+        click: featureclick
+    });
+  };
   poi = L.geoJson(gjson_poi, {
      pointToLayer: function (feature, latlng) {
        return L.circleMarker(latlng, style_poi)
-     }
+     },
+     onEachFeature: onEachFeature
   });
 
   var markers = L.markerClusterGroup({maxClusterRadius:80, disableClusteringAtZoom:16,
@@ -166,7 +191,7 @@
         });
   scaleControl.addTo(map);
 
- // add zoom bar
+  // add zoom bar
   var zoomBar = L.easyBar([
     L.easyButton('<b>+</b>', function(control, map){map.setZoom(map.getZoom()+1);}),
     L.easyButton('<img src="css/house.svg" width="80%" height="80% style="line-height: 40px">',
@@ -175,10 +200,8 @@
   ]);
   zoomBar.addTo(map);
 
-
   // add locate
   L.control.locate().addTo(map);
-
 
   // add fullscreen
   map.addControl(
@@ -198,6 +221,28 @@
     darkMode: true,
     startTab: 'tab-1'
   }).addTo(map);
+
+
+  // info
+  var info = L.control();
+
+  info.onAdd = function (map) {
+      this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+      this.update();
+      return this._div;
+  };
+
+  // method that we will use to update the control based on feature properties passed
+  info.update = function (props) {
+      this._div.innerHTML = '<h4>Info</h4>' +  (!props ?
+          'Hover over a point' :
+          '<b>' + props['naziv djela'] + '</b><br />'
+      );
+  };
+
+  info.addTo(map);
+
+  //map.on('click', function(e) {closepanel()});
 
 </script>
 </body>
