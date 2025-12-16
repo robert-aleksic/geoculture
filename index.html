@@ -133,14 +133,24 @@
 
   function featureclick (e){
     // populate side panel
-    let t = document.querySelectorAll("div.sidepanel-tab-content")[0];
+    let t1 = document.querySelectorAll("div.sidepanel-tab-content")[0];
     let pr = e.target.feature.properties;
 
-    t.textContent="";
+    t1.textContent="";
+    let t1p = document.createElement('p');
+    t1p.innerText = pr['glavni narativ uz djelo )pojavljije se kao prvi pasus)'];
+    t1.appendChild(t1p);
 
-    let tekstp = document.createElement('p');
-    tekstp.innerText = pr['glavni narativ uz djelo )pojavljije se kao prvi pasus)'];
-    t.appendChild(tekstp);
+    let t3 = document.querySelectorAll("div.sidepanel-tab-content")[2];
+
+    t3.textContent="";
+    let t3h1 = document.createElement('h1');
+    t3h1.innerText = pr.fn+' '+pr.ln;
+    t3.appendChild(t3h1);
+
+    let t3p = document.createElement('p');
+    t3p.innerText = pr.bio;
+    t3.appendChild(t3p);
 
     openpanel()
 
@@ -243,9 +253,9 @@
 
   // method that we will use to update the control based on feature properties passed
   info.update = function (props) {
-      this._div.innerHTML = '<h4>Info</h4>' +  (!props ?
+      this._div.innerHTML = (!props ?
           'Hover over a point' :
-          '<b>' + props['naziv djela'] + '</b><br />'
+          '<div><center><p><b>'+props.name+'</b></p></center> <img src="' + props.img +'" width="400px"></div>'
       );
   };
 
