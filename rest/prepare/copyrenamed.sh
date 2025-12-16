@@ -72,7 +72,6 @@ cp "photo/1095_Christian_Eckardt_-_Fra_Bugten_ved_Cattaro_i_Dalmatien_-_1890.jpg
 cp "photo/1096_Feodor Karaćaj HN pogled na tvrđavu Sv Trojica.jpg" ../../images/1096.jpg
 cp "photo/1098_Fritz Lach, Pogled na Perast 1909.jpg" ../../images/1098.jpg
 cp "photo/1099_Fritz_Lach_Perasto_Bocche_di_Cattaro_1927.jpg" ../../images/1099.jpg
-cp "photo/1100_Gurlitt, Louis Kotorska luka.jpg" ../../images/1100.jpg
 cp "photo/1101_Gurlitt, Louis Luka u Kotoru u Dalmaciji, 1952.jpg" ../../images/1101.jpg
 cp "photo/1102_Gurlitt, Louis Pogled na Ljutu.jpg" ../../images/1102.jpg
 cp "photo/1103_Gurlitt, Louis.jpg" ../../images/1103.jpg
@@ -115,6 +114,7 @@ cp "photo/1145_Filipović Branko Filo Herceg Novi.jpg" ../../images/1145.jpg
 cp "photo/1147_Filipović Branko Filo Sveti Stefan.jpg" ../../images/1147.jpg
 cp "photo/1148_Filipović Branko Filo_Boka.jpg" ../../images/1148.jpg
 cp "photo/1149_Filipović Branko Filo_Nikšić.jpg" ../../images/1149.jpg
+cp "photo/1150_Ivanović Ljuba Begovski dom.jpg" ../../images/1150.jpg
 cp "photo/1151_Ivanović_Ljuba_Bijelo Polje.jpg" ../../images/1151.jpg
 cp "photo/1152_Ivanović_Ljuba_Budva_1927.jpg" ../../images/1152.jpg
 cp "photo/1153_Ivanović_Ljuba_Ribnica.jpg" ../../images/1153.jpg
@@ -156,7 +156,6 @@ cp "photo/1194_Đokić_Voislav_Prčanj.jpg" ../../images/1194.jpg
 cp "photo/1195_Đuranović Mato Stari mlinovi.jpg" ../../images/1195.jpg
 cp "photo/1196_Ivanović Ljuba Stari Bar.jpg" ../../images/1196.jpg
 cp "photo/1197_Jakac Božidar Pogled sa Cetinja na Lovćen.jpg" ../../images/1197.jpg
-cp "photo/1198_Kovačević Branko Motiv iz Budve.jpg" ../../images/1198.jpg
 cp "photo/1199_Lubarda Vera Cetinje sa Lovćenom.jpg" ../../images/1199.jpg
 cp "photo/1200_Brajović_ Ljubo_ Pejzaž sa Ribnice_ 1981.jpg" ../../images/1200.jpg
 cp "photo/1202_Lubarda Peta_Kosmač.jpg" ../../images/1202.jpg
@@ -168,7 +167,6 @@ cp "photo/1208_Vujošević Nikola Stara varoš 1951-2.jpg" ../../images/1208.
 cp "photo/1213_Vujović Savo Bez naziva.jpg" ../../images/1213.jpg
 cp "photo/1214_Vujović Savo Perast.jpg" ../../images/1214.jpg
 cp "photo/1215_Vušković Miloš tara varoš 1953.jpg" ../../images/1215.jpg
-cp "photo/1250_Lubarda Vera Predio sa Cetinja.jpg" ../../images/1250.jpg
 cp "photo/1251_Martinović Petar Risan.jpg" ../../images/1251.jpg
 cp "photo/1252_Milunović Milo Cetinjski krovovi.jpg" ../../images/1252.jpg
 cp "photo/1253_Milunović Milo Kuća na Svetom Stefanu.jpg" ../../images/1253.jpg
@@ -176,4 +174,5 @@ cp "photo/1254_Milunović Milo Sveti Stefan_05.jpg" ../../images/1254.jpg
 cp "photo/1255_Šotra Milena Medun Marka Miljanova.jpg" ../../images/1255.jpg
 cp "photo/1256_Stanković_Luka Petrovac.jpg" ../../images/1256.jpg
 cp "photo/1258_Živković Milentije Lesendro.jpg" ../../images/1258.jpg
+cp "photo/1410_Marina u Kotoru.jpg" ../../images/1410.jpg
 exiftool photo/*.* >exif.txt

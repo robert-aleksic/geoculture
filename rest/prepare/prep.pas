@@ -150,6 +150,8 @@ begin
     txt  := 'No data'
   end;
 
+  writeln ('processing points...');
+
   assign (f,'copyrenamed.sh');
   rewrite (f);
   points := 0;
@@ -194,6 +196,7 @@ begin
 
   csvheadersstop;
 
+  writeln ('outpug gjson...');
   assign (f,'../../poi.js');
   rewrite (f);
 
