@@ -26,10 +26,20 @@ type
   pointrec = record
                id       : string;
                name     : string;
+               era      : string;
                fn,ln    : string;
                bio      : longtext;
+               year     : string;
                geometry : string;
-               imgf     : string
+               imgf     : string;
+               teh      : string;
+               format   : string;
+               tags     : string;
+               vlas     : string;
+               vlink    : string;
+               phcredit : string;
+               desc1    :longtext;
+               desc2    :longtext
              end;
 
 
@@ -74,7 +84,6 @@ var
     then geomrevert := s
     else geomrevert := trim(copy(s,p+1,l-p)) + ', ' + copy (s,1,p-1)
   end;
-
 
   procedure addfile (name:string);
   var l1 : byte;
@@ -173,9 +182,9 @@ begin
       authors := authors+1;
       with author[authors] do
       begin
-        name := col[1];
+        name  := col[1];
         birth := col[2];
-        txt := parasplit (sanitized(col[3]));
+        txt   := parasplit (sanitized(col[3]));
       end
     end
   end;
@@ -206,12 +215,26 @@ begin
                name := col[6];
                fn   := col[7];
                ln   := col[8];
+               year := col[9];
                apos := authorfind (fn,ln);
-               bio := author[apos].txt;
+               era  := author[apos].birth;
+               bio  := author[apos].txt;
+
+               teh    := col[10];
+               format := col[11];
+               tags   := sanitized(col[17]);
+
+               vlas     := sanitized(col[12]);
+               vlink    := col[13];
+               phcredit := col[14];
 
                if apos=0 then writeln ('!! author not found : ',fn,' ',ln);
                imgf := imgfile (col[5]);
                geometry := geomrevert (col[4]);
+
+               desc1 := parasplit (sanitized(col[15]));
+               desc2 := parasplit (sanitized(col[16]));
+
                if imgf=''
                then writeln ('!! image not found  : ',col[5])
                else begin
@@ -250,13 +273,29 @@ begin
       write (f,'{ "type": "Feature"');
       write (f,', "geometry": { "type": "Point", "coordinates": [',geometry,']}');
       write (f,', "properties": { "img": "images\/',imgf,'"');
-      write (f,               ', "name": "'+name+'"');
       write (f,               ', "id": "'+id+'"');
+      write (f,               ', "name": "'+name+'"');
+      write (f,               ', "year": "'+year+'"');
+      write (f,               ', "teh": "'+teh+'"');
+      write (f,               ', "format": "'+format+'"');
+      write (f,               ', "vlas": "'+vlas+'"');
       write (f,               ', "fn": "'+fn+'"');
       write (f,               ', "ln": "'+ln+'"');
+      write (f,               ', "era": "'+era+'"');
+      write (f,               ', "tags": "'+tags+'"');
+
       write (f,               ', "bio": [');
       for j := 1 to bio.n do begin write (f,'"'+bio.a[j],'"'); if j<bio.n then write (f,', '); end;
       write (f,                         ']');
+
+      write (f,               ', "desc1": [');
+      for j := 1 to desc1.n do begin write (f,'"'+desc1.a[j],'"'); if j<desc1.n then write (f,', '); end;
+      write (f,                         ']');
+
+      write (f,               ', "desc2": [');
+      for j := 1 to desc2.n do begin write (f,'"'+desc2.a[j],'"'); if j<desc2.n then write (f,', '); end;
+      write (f,                         ']');
+
       writeln (f,               '} }, ')
 
     end;

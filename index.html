@@ -68,11 +68,6 @@
           </li>
           <li class="sidepanel-tab">
             <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-2">
-              About
-            </a>
-          </li>
-          <li class="sidepanel-tab">
-            <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-3">
               Author
             </a>
           </li>
@@ -85,9 +80,6 @@
             <p>Image, name, etc</p>
           </div>
           <div class="sidepanel-tab-content" data-tab-content="tab-2">
-            <p>Artwork long description</p>
-          </div>
-          <div class="sidepanel-tab-content" data-tab-content="tab-3">
             <p>About Author</p>
           </div>
           <!-- [...] -->
@@ -103,6 +95,7 @@
 
 <script>
   var debug = true;
+  const panelw = 400;
 
   const map = L.map('map', {zoomControl: false, zoomSnap: 0.5});
 
@@ -135,24 +128,50 @@
 
   function featureclick (e){
     // populate side panel
-    let t1 = document.querySelectorAll("div.sidepanel-tab-content")[0];
     let pr = e.target.feature.properties;
 
+    let t1 = document.querySelectorAll("div.sidepanel-tab-content")[0];
     t1.textContent="";
-    let t1p = document.createElement('p');
-    t1p.innerText = pr['glavni narativ uz djelo )pojavljije se kao prvi pasus)'];
-    t1.appendChild(t1p);
 
-    let t3 = document.querySelectorAll("div.sidepanel-tab-content")[2];
+    let t1h1 = document.createElement('h1');
+    t1h1.innerText = pr.name;
+    t1h1.style.display = "block";
+    t1.appendChild(t1h1);
 
+    let t1c = document.createElement('small');
+    t1c.innerText = pr.fn+' '+pr.ln +
+      ((pr.year!="") ? "; "+pr.year : "") +
+      ((pr.teh!="") ? "; "+pr.teh : "") +
+      ((pr.format!="") ? "; "+pr.format : "") +
+      ((pr.vlas!="") ? "; "+pr.vlas : "");
+    t1.appendChild(t1c);
+
+    let t1i = document.createElement ('img');
+    t1i.setAttribute ('src',pr.img);
+    t1i.setAttribute ('width',"380px");
+    t1.appendChild(t1i);
+
+    let t1p = [];
+    for (let i = 0; i < pr.desc1.length; i++) {
+      t1p[i] = document.createElement('p');
+      t1p[i].innerText = pr.desc1[i];
+      t1.appendChild (t1p[i]);
+    };
+
+    let t1p2 = [];
+    for (let i = 0; i < pr.desc2.length; i++) {
+      t1p2[i] = document.createElement('p');
+      t1p2[i].innerText = pr.desc2[i];
+      t1.appendChild (t1p2[i]);
+    };
+
+
+    let t3 = document.querySelectorAll("div.sidepanel-tab-content")[1];
     t3.textContent="";
+
     let t3h1 = document.createElement('h1');
     t3h1.innerText = pr.fn+' '+pr.ln;
     t3.appendChild(t3h1);
-
-    //t3ps = document.createElement('p');
-    //t3ps.innerText = pr.bio.length.toString();
-    //t3.appendChild(t3ps);
 
     let t3p = [];
     for (let i = 0; i < pr.bio.length; i++) {
@@ -211,7 +230,7 @@
 
   // add scale control
   var scaleControl = new L.Control.Scale({
-            maxwidth: 200,
+            maxwidth: 300,
             position: 'bottomleft',
             metric: true,
             imperial: false,
