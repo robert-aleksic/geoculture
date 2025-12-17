@@ -74,7 +74,6 @@ cp "photo/1098_Fritz Lach, Pogled na Perast 1909.jpg" ../../images/1098.jpg
 cp "photo/1099_Fritz_Lach_Perasto_Bocche_di_Cattaro_1927.jpg" ../../images/1099.jpg
 cp "photo/1101_Gurlitt, Louis Luka u Kotoru u Dalmaciji, 1952.jpg" ../../images/1101.jpg
 cp "photo/1102_Gurlitt, Louis Pogled na Ljutu.jpg" ../../images/1102.jpg
-cp "photo/1103_Gurlitt, Louis.jpg" ../../images/1103.jpg
 cp "photo/1104_Gurlitt, Louis_Pogled na mletačku tvrđavu Kotor_1879.jpg" ../../images/1104.jpg
 cp "photo/1105_Hermann_Corrodi_Le_Bocche_di_Cattaro.jpg" ../../images/1105.jpg
 cp "photo/1106_Hugo Chleremont_Put od Kotora ka Cetinu_1892.jpg" ../../images/1106.jpg
@@ -174,5 +173,58 @@ cp "photo/1254_Milunović Milo Sveti Stefan_05.jpg" ../../images/1254.jpg
 cp "photo/1255_Šotra Milena Medun Marka Miljanova.jpg" ../../images/1255.jpg
 cp "photo/1256_Stanković_Luka Petrovac.jpg" ../../images/1256.jpg
 cp "photo/1258_Živković Milentije Lesendro.jpg" ../../images/1258.jpg
+cp "photo/1400_Pogled na Prčanj i Dobrotu.jpg" ../../images/1400.jpg
+cp "photo/1401_Bar.jpg" ../../images/1401.jpg
+cp "photo/1402_Budva.jpg" ../../images/1402.jpg
+cp "photo/1403_Castel Lastva.jpg" ../../images/1403.jpg
+cp "photo/1404_Herceg Novi.jpg" ../../images/1404.jpg
+cp "photo/1405_Cetinjski manastir.jpg" ../../images/1405.jpg
+cp "photo/1406_Cetinje.jpg" ../../images/1406.jpg
+cp "photo/1407_ Boka Kotorska.jpg" ../../images/1407.jpg
+cp "photo/1408_Castel Nuovo.jpg" ../../images/1408.jpg
+cp "photo/1409_Zaliv između Budve i Sv Stefana.jpg" ../../images/1409.jpg
 cp "photo/1410_Marina u Kotoru.jpg" ../../images/1410.jpg
+cp "photo/1411_Kotor.jpg" ../../images/1411.jpg
+cp "photo/1412_Edward_Lear.jpg" ../../images/1412.jpg
+cp "photo/1413_Anton_Karinger_Blick_auf_den_Skutarisee_1868.jpg" ../../images/1413.jpg
+cp "photo/1415_Pogled na Kotorski zaliv.jpg" ../../images/1415.jpg
+cp "photo/1416_Carl_Robert_Kummer.jpg" ../../images/1416.jpg
+cp "photo/1417_Michael_Zeno_Diemer_Bucht_von_Cattaro.jpg" ../../images/1417.jpg
+cp "photo/1418_Oldřich_Koníček_Boka_Kotorská.jpg" ../../images/1418.jpg
+cp "photo/1419_Port_de_Cattaro.jpg" ../../images/1419.jpg
+cp "photo/1420_Vue_de_Perasto_dans_le_golfe_de_Kotor.jpg" ../../images/1420.jpg
+cp "photo/1422_Karl Ludwig Prinz_Hafen_von_Virbazar.jpg" ../../images/1422.jpg
+cp "photo/1423_Alfred_Zoff_Küste_bei_Herzeg_Novi_1926.jpg" ../../images/1423.jpg
+cp "photo/1424_Rach Gustav.jpg" ../../images/1424.jpg
+cp "photo/1425_Anton Perko, Kotor, 1875.jpg" ../../images/1425.jpg
+cp "photo/1427_Herman Corrodi, Motiv iz Crne Gore .jpg" ../../images/1427.jpg
+cp "photo/1428_Edward Lear.jpg" ../../images/1428.jpg
+cp "photo/1429_Edward Lear_Montenegro.jpg" ../../images/1429.jpg
+cp "photo/1430_Edward Lear.jpg" ../../images/1430.jpg
+cp "photo/1501_Ilija Šobajic, Spuška Glavica, crtež olovkom na natron papiru, 45,5x31.jpg" ../../images/1501.jpg
+cp "photo/1502_Jovan Kukic, Pljevlja, tempera na kartonu, 70x50.jpg" ../../images/1502.jpg
+cp "photo/1503_Luka Stankovic, Džamija sa sahat kulom, olovka na papitu, 47x35.jpg" ../../images/1503.jpg
+cp "photo/1504_Savo Vujovic, Prcanj, ulje na platnu, 50x41.jpg" ../../images/1504.jpg
+cp "photo/1505_Vehbija Vehbo Bambur slika, gvaš, tempera na papiru 54x44 cm.jpg" ../../images/1505.jpg
+cp "photo/1506_Vuko Radovic, Platije, ulje na lesonitu, 100x83.jpg" ../../images/1506.jpg
+cp "photo/1511_Dujšin Ribar Cata_Budva u oluji_1957.jpg" ../../images/1511.jpg
+cp "photo/1512_Dujšin Ribar Cata_Dobrota_1975.jpg" ../../images/1512.jpg
+cp "photo/1513_Dujšin Ribar Cata_Impresija iz Boke_1978.jpg" ../../images/1513.jpg
+cp "photo/1514_Dujšin Ribar Cata_Iz Kotora 1956.jpg" ../../images/1514.jpg
+cp "photo/1515_Dujšin Ribar Cata_Iz Perasta_1964.jpg" ../../images/1515.jpg
+cp "photo/1516_Dujšin Ribar Cata_Perast_1952.jpg" ../../images/1516.jpg
+cp "photo/1517_Dujšin Ribar Cata_Perast_1955.jpg" ../../images/1517.jpg
+cp "photo/1518_Dujšin Ribar Cata_Perast_1956.jpg" ../../images/1518.jpg
+cp "photo/1519_Dujšin Ribar Cata_Perast_1961.jpg" ../../images/1519.jpg
+cp "photo/1520_Dujšin Ribar Cata_Stari Bar_1968.jpg" ../../images/1520.jpg
+cp "photo/1521_Dujšin Ribar Cata_Sv Matija_1957.jpg" ../../images/1521.jpg
+cp "photo/1531_ L Kuba Manastir Moraca.JPG" ../../images/1531.jpg
+cp "photo/1532_ L Kuba Manastir Moraca.JPG" ../../images/1532.jpg
+cp "photo/1533_L_Kuba _Duklja.JPG" ../../images/1533.jpg
+cp "photo/1534_L_Kuba_Uz Moraču.JPG" ../../images/1534.jpg
+cp "photo/1535_L_Kuba_Na Morači.JPG" ../../images/1535.jpg
+cp "photo/1536_L Kuba Motiv iz Bara.JPG" ../../images/1536.jpg
+cp "photo/1539_Shojat Motiv iz Boke.JPG" ../../images/1539.jpg
+cp "photo/1540_Sotra M Iz Herceg Novog.jpg" ../../images/1540.jpg
+cp "photo/1544_Kulenovic H Novi.JPG" ../../images/1544.jpg
 exiftool photo/*.* >exif.txt

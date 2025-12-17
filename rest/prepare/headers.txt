@@ -24,10 +24,10 @@ points
   9 !    8 ! godina nastanka
  10 !   35 ! tehnika
  11 !   12 ! format
- 12 !   69 ! vlasnik
+ 12 !   78 ! vlasnik
  13 !   68 ! link vlasnik
- 14 !   78 ! foto kredits
- 15 !  780 ! glavni narativ uz djelo )pojavljije se kao prvi pasus)
+ 14 !   25 ! foto kredits
+ 15 !  794 ! glavni narativ uz djelo )pojavljije se kao prvi pasus)
  16 !  1329 ! sekundarni narativ uz djelo, slijedi nakon prvog, služi obično da se povežu pojedine tačke
  17 !   75 ! narativ za koji se veže. Ako ih ima više razdvojiti ih sa tačka zarez, npr: Miunović Milo;Boka kotorska; ovo se pojavljuje nakon teksta o jedinici
  18 !    0 ! Column2
