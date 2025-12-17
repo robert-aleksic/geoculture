@@ -217,7 +217,8 @@
     layer.on({
         mouseover: highlightFeature,
         mouseout: resetHighlight,
-        click: featureclick
+        click: featureclick,
+        touchstart: featureclick
     });
   };
   poi = L.geoJson(gjson_poi, {
