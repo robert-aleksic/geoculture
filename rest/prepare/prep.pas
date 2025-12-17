@@ -228,12 +228,13 @@ begin
                vlink    := col[13];
                phcredit := col[14];
 
-               if apos=0 then writeln ('!! author not found : ',fn,' ',ln);
                imgf := imgfile (col[5]);
                geometry := geomrevert (col[4]);
 
                desc1 := parasplit (sanitized(col[15]));
                desc2 := parasplit (sanitized(col[16]));
+
+               if apos=0 then writeln ('!! author not found (',id,'): ',fn,' ',ln);
 
                if imgf=''
                then writeln ('!! image not found  : ',col[5])
