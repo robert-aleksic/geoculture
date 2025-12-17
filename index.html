@@ -138,7 +138,7 @@
 
     let t1h1 = document.createElement('h1');
     t1h1.innerText = pr.name;
-    t1h1.style.display = "block";
+    t1h1.setAttribute ('style',"display: block; margin: 0; margin-bottom: 8px");
     t1.appendChild(t1h1);
 
     let t1c = document.createElement('small');
@@ -151,15 +151,15 @@
 
     let t1i = document.createElement ('img');
     t1i.setAttribute ('src',pr.img);
-    t1i.setAttribute ('width',"424px");
+    t1i.setAttribute ('style',"max-width: 100%; margin-top: 2px");
     Intense(t1i);
     t1.appendChild(t1i);
 
-    let t1p = [];
+    let t1p1 = [];
     for (let i = 0; i < pr.desc1.length; i++) {
-      t1p[i] = document.createElement('p');
-      t1p[i].innerText = pr.desc1[i];
-      t1.appendChild (t1p[i]);
+      t1p1[i] = document.createElement('p');
+      t1p1[i].innerText = pr.desc1[i];
+      t1.appendChild (t1p1[i]);
     };
 
     let t1p2 = [];
@@ -169,19 +169,24 @@
       t1.appendChild (t1p2[i]);
     };
 
+    t1tag = document.createElement('em');
+    //t1tag.setAttribute ('style',"display: block; margin: 0; margin-bottom: 8px");
+    t1tag.innerText = pr.tags;
+    t1.appendChild (t1tag);
 
-    let t3 = document.querySelectorAll("div.sidepanel-tab-content")[1];
-    t3.textContent="";
+    let t2 = document.querySelectorAll("div.sidepanel-tab-content")[1];
+    t2.textContent="";
 
-    let t3h1 = document.createElement('h1');
-    t3h1.innerText = pr.fn+' '+pr.ln;
-    t3.appendChild(t3h1);
+    let t2h1 = document.createElement('h1');
+    t2h1.setAttribute ('style',"display: block; margin: 0; margin-bottom: 8px");
+    t2h1.innerText = pr.fn+' '+pr.ln;
+    t2.appendChild(t2h1);
 
-    let t3p = [];
+    let t2p = [];
     for (let i = 0; i < pr.bio.length; i++) {
-      t3p[i] = document.createElement('p');
-      t3p[i].innerText = pr.bio[i];
-      t3.appendChild (t3p[i])
+      t2p[i] = document.createElement('p');
+      t2p[i].innerText = pr.bio[i];
+      t2.appendChild (t2p[i])
     };
 
     openpanel()
