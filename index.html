@@ -182,6 +182,11 @@
     t2h1.innerText = pr.fn+' '+pr.ln;
     t2.appendChild(t2h1);
 
+    let t2e = document.createElement('h3');
+    t2e.setAttribute ('style',"display: block; margin: 0; margin-bottom: 16px");
+    t2e.innerText = pr.era;
+    t2.appendChild(t2e);
+
     let t2p = [];
     for (let i = 0; i < pr.bio.length; i++) {
       t2p[i] = document.createElement('p');
