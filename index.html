@@ -297,8 +297,9 @@
   info.update = function (props) {
       this._div.innerHTML = (!props ?
           'Hover over a point' :
-            '<div><center><p><b>'+props.name+"</b> <small>\/"+props.id+"\/ </p></center>"+
-            '<img src="' + props.img +'" width="300px">'+
+            '<div><center><p><b>'+props.name+"</b> <small>\/"+props.id+"\/</small></p></center>"+
+            '<p>' + props.fn+' '+ props.ln +'</p>'+
+            //'<img src="' + props.img +'" width="300px">'+
           '</div>'
       );
   };
