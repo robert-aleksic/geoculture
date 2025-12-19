@@ -225,7 +225,7 @@ begin
                tags   := sanitized(col[17]);
 
                vlas     := sanitized(col[12]);
-               vlink    := col[13];
+               vlink    := sanitized(col[13]);
                phcredit := col[14];
 
                imgf := imgfile (col[5]);
@@ -280,6 +280,7 @@ begin
       write (f,               ', "teh": "'+teh+'"');
       write (f,               ', "format": "'+format+'"');
       write (f,               ', "vlas": "'+vlas+'"');
+      write (f,               ', "vlink": "'+vlink+'"');
       write (f,               ', "fn": "'+fn+'"');
       write (f,               ', "ln": "'+ln+'"');
       write (f,               ', "era": "'+era+'"');
