@@ -12,13 +12,24 @@ const
   maxauthors=200;
   maxpoints=maxinfiles;
 
+  exifs = 2;
+  exiftags : array [1..exifs] of string = ('File Name','Creator Work URL');
+
 type
   longtext = record
                a : array [1..20] of ansistring;
                n : integer;
              end;
 
-  filerec = record n : string; t : longint end;
+  filerec = record
+              n : string;
+              t : longint;
+            end;
+  exifrec = record
+              fn : string;
+              val : array [0..exifs] of string;
+            end;
+
   authorrec = record
                 name  : string;
                 birth : string;
@@ -48,6 +59,9 @@ var
   inpf     : array [0..maxinfiles] of filerec;
   inpfnum  : integer;
 
+  exif     : array [0..maxinfiles] of exifrec;
+  exifnum  : integer;
+
   author  : array [0..maxauthors] of authorrec;
   authors : integer;
 
@@ -70,6 +84,56 @@ var
                  else sanitized += '"';
        else      sanitized += s[i]
      end
+  end;
+
+
+  function exifval (f:string; t:integer) : string;
+  var i : integer;
+  begin
+    exifval := '';
+    for i := 1 to exifnum do
+      with exif[i] do
+        if fn=f then exifval := val[t]
+  end;
+
+  procedure exifscan;
+  var
+    f : text;
+    s : string;
+    t,p : integer;
+
+    function exiftag (s:string) : integer;
+    var i : integer;
+    begin
+      exiftag := 0;
+      for i := 1 to exifs do
+        if pos (exiftags[i],s) = 1 then exiftag := i
+    end;
+
+  begin
+    exifnum := 0;
+    if FileExists (exiffile)
+    then begin
+           assign (f,exiffile);
+           reset (f);
+           while not eof (f) do
+           begin
+             readln (f,s);
+             t := exiftag (s);
+             if t=1
+             then exifnum := exifnum+1;
+
+             if t<>0
+             then with exif[exifnum] do
+                  begin
+                    p := pos (':',s);
+                    val[t] := copy (s,p+2,length(s)-p-1);
+                    if t=1 then fn := copy (val[1],1,4);
+                    //writeln (fn,' ',t, ' ',val[t])
+                  end
+           end;
+           close (f)
+         end
   end;
 
   function geomrevert (s:string) : string;
@@ -170,6 +234,7 @@ begin
   traverse (photofolder+'*.*', @addfile);
   sortfiles;
   //for i := 1 to inpfnum do writeln (i,' ! ',inpf[i].n);
+  exifscan;
 
   csvheadersstart ('headers.txt');
   authors := 0;
@@ -226,6 +291,10 @@ begin
 
                vlas     := sanitized(col[12]);
                vlink    := sanitized(col[13]);
+               if vlink='' then vlink := exifval (id,2);
+               if copy (vlink,1,4)<>'http'
+               then vlink := '';
+
                phcredit := col[14];
 
                imgf := imgfile (col[5]);
