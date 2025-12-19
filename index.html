@@ -83,7 +83,7 @@
             <p></p>
           </div>
           <div class="sidepanel-tab-content" data-tab-content="tab-2">
-            <p>r</p>
+            <p></p>
           </div>
           <!-- [...] -->
         </div>
@@ -109,23 +109,11 @@
 
   // utility
   function openpanel(){
-    let pandom = L.DomUtil.get('attributes');
-    let IS_OPENED = true;
-    let opened = L.DomUtil.hasClass(pandom,'opened');
-    let closed = L.DomUtil.hasClass(pandom,'closed');
-
-    if (!opened) {L.DomUtil.addClass(pandom,'opened')};
-    if (closed)  {L.DomUtil.removeClass(pandom,'closed')}
+    attrpanel.doOpen (map);
   };
 
   function closepanel(){
-    let pandom = L.DomUtil.get('attributes');
-    let IS_OPENED = false;
-    let opened = L.DomUtil.hasClass(pandom,'opened');
-    let closed = L.DomUtil.hasClass(pandom,'closed');
-
-    if (opened)  {L.DomUtil.removeClass(pandom,'opened')};
-    if (!closed) {L.DomUtil.addClass(pandom,'closed')}
+    attrpanel.doClose (map);
   };
 
 
@@ -194,7 +182,8 @@
       t2.appendChild (t2p[i])
     };
 
-    openpanel()
+    openpanel();
+    disableEventPropagation (e.target)
 
   };
 
@@ -274,6 +263,7 @@
     })
   );
 
+
   // side panel
   var attrpanel = L.control.sidepanel('attributes', {
     panelPosition: 'right',
@@ -282,7 +272,12 @@
     pushControls: true,
     darkMode: true,
     startTab: 'tab-1'
-  }).addTo(map);
+  })
+  attrpanel.addTo(map);
+
+  map.on ('click', function(e) {
+     closepanel()
+  });
 
 
   // info

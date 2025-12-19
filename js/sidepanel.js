@@ -12,7 +12,7 @@ L.Control.SidePanel = L.Control.extend({
 		tabsPosition: 'top',
 		darkMode: false,
 		pushControls: false,
-		startTab: 1
+		startTab: 'tab-1'
 	},
 
 	initialize: function (id, options) {
@@ -43,7 +43,36 @@ L.Control.SidePanel = L.Control.extend({
 		}
 	},
 
+  selTab: function (map, sel) {
+
+    let tabsPosition = this.options.tabsPosition;
+    let tabsLinks = this._panel.querySelectorAll('a.sidebar-tab-link');
+		let tabsContents = this._panel.querySelectorAll('.sidepanel-tab-content');
+
+    tabsLinks.forEach (function (tabLink, tabIndex) {
+    	let startTab = tabLink;
+			let startContent = tabsContents[tabIndex]
+
+      if (tabIndex == sel) {
+        if (!L.DomUtil.hasClass(startTab, 'active')) {
+				  L.DomUtil.addClass(startTab, 'active')
+				};
+				if (!L.DomUtil.hasClass(startContent, 'active')) {
+				  L.DomUtil.addClass(startContent, 'active');
+			  }
+			}	else {
+				if (L.DomUtil.hasClass(startTab, 'active')) {
+				  L.DomUtil.removeClass(startTab, 'active')
+				};
+				if (L.DomUtil.hasClass(startContent, 'active')) {
+				  L.DomUtil.removeClass(startContent, 'active');
+			  }
+			}
+    })
+  },
+
 	initTabs: function (map, tabsPosition) {
+
 		if (typeof tabsPosition === 'string') {
 			L.DomUtil.addClass(this._panel, 'tabs-' + tabsPosition);
 		}
@@ -102,24 +131,53 @@ L.Control.SidePanel = L.Control.extend({
 	},
 
   doOpen: function (map){
+
+    this.selTab(map,0);
+
   	let IS_OPENED = true;
 		let opened = L.DomUtil.hasClass(this._panel, 'opened');
 		let closed = L.DomUtil.hasClass(this._panel, 'closed');
 
-		if (!opened) {L.DomUtil.addClass(this._panel, 'opened')};
+		if (!opened || closed) {L.DomUtil.addClass(this._panel, 'opened')};
 		if (closed)  {L.DomUtil.removeClass(this._panel, 'closed')}
+
+    let controlsContainer = map.getContainer().querySelector('.leaflet-control-container');
+
+		L.DomUtil.addClass(controlsContainer, 'leaflet-anim-control-container');
+
+		L.DomUtil.removeClass(controlsContainer, this.options.panelPosition + '-closed');
+		L.DomUtil.addClass(controlsContainer, this.options.panelPosition + '-opened');
   },
+
+  doClose: function (map){
+  	let IS_OPENED = false;
+		let opened = L.DomUtil.hasClass(this._panel, 'opened');
+		let closed = L.DomUtil.hasClass(this._panel, 'closed');
+
+		if (opened)  {L.DomUtil.removeClass(this._panel, 'opened')};
+		if (!closed) {L.DomUtil.addClass(this._panel, 'closed')}
+
+  	let controlsContainer = map.getContainer().querySelector('.leaflet-control-container');
+
+		L.DomUtil.addClass(controlsContainer, 'leaflet-anim-control-container');
+
+		L.DomUtil.removeClass(controlsContainer, this.options.panelPosition + '-opened');
+		L.DomUtil.addClass(controlsContainer, this.options.panelPosition + '-closed');
+	},
 
 	_toggleButton: function (map) {
 		const container = this._panel.querySelector('.sidepanel-toggle-container');
 		const button = container.querySelector('.sidepanel-toggle-button');
 
 		L.DomEvent.on(button, 'click', function (e) {
-			let IS_OPENED = true;
+			//let IS_OPENED = true;
 			let opened = L.DomUtil.hasClass(this._panel, 'opened');
 			let closed = L.DomUtil.hasClass(this._panel, 'closed');
 
-			if (!opened && !closed) {
+			if (opened) {this.doClose(map)}
+			else {this.doOpen(map)};
+
+			/* if (!opened && !closed) {
 				L.DomUtil.addClass(this._panel, 'opened');
 			} else if (!opened && closed) {
 				L.DomUtil.addClass(this._panel, 'opened');
@@ -144,7 +202,7 @@ L.Control.SidePanel = L.Control.extend({
 					L.DomUtil.removeClass(controlsContainer, this.options.panelPosition + '-opened');
 					L.DomUtil.addClass(controlsContainer, this.options.panelPosition + '-closed');
 				}
-			}
+			}*/
 		}.bind(this), container);
 	},
 });
