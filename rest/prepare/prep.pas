@@ -344,6 +344,7 @@ begin
       write (f,'{ "type": "Feature"');
       write (f,', "geometry": { "type": "Point", "coordinates": [',geometry,']}');
       write (f,', "properties": { "img": "images\/',imgf,'"');
+      write (f,               ', "sel": ""');
       write (f,               ', "id": "'+id+'"');
       write (f,               ', "name": "'+name+'"');
       write (f,               ', "year": "'+year+'"');
