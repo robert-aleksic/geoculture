@@ -11,10 +11,9 @@
 
     <link rel="stylesheet" href="css/base.css"/>
 
-    <script src="js/intense.js"></script>
-
     <link rel="stylesheet" href="css/leaflet.css"/>
     <script src="js/leaflet.js"></script>
+
 
 
     <link rel="stylesheet" href="css/markercluster.css"/>
@@ -35,9 +34,11 @@
     <link rel="stylesheet" href="css/locate.min.css" />
     <script src="js/locate.min.js"></script>
 
-
     <link rel="stylesheet" href="css/sidepanel.css" />
     <script src="js/sidepanel.js"></script>
+
+    <link rel="stylesheet" href="css/spotlight.min.css">
+    <script src="js/spotlight.min.js"></script>
 
     <script src="poi.js"></script>
 
@@ -116,7 +117,6 @@
     attrpanel.doClose (map);
   };
 
-
   function featureclick (e){
     // populate side panel
     let pr = e.target.feature.properties;
@@ -137,11 +137,16 @@
       ((pr.vlas!="") ? "; "+pr.vlas : "");
     t1.appendChild(t1c);
 
+
+    let t1g = document.createElement ('div');
+    t1g.setAttribute ('class','spotlight');
+    t1g.setAttribute ('data-src',pr.img);
+
     let t1i = document.createElement ('img');
     t1i.setAttribute ('src',pr.img);
-    t1i.setAttribute ('style',"max-width: 100%; margin-top: 2px");
-    Intense(t1i);
-    t1.appendChild(t1i);
+    t1i.setAttribute ('style',"max-width: 100%; margin-top: 2px; cursor: pointer");
+    t1g.appendChild(t1i);
+    t1.appendChild(t1g);
 
     let t1p1 = [];
     for (let i = 0; i < pr.desc1.length; i++) {
@@ -187,16 +192,14 @@
 
   };
 
-  //map.on('mouseover', function(e) {closepanel()});
-
   // points & clusters
   var style_poi = {
     radius: 10,
     fillColor: "#ff7800",
-    color: "#000",
+    color: "#aaaaaa",
     weight: 1,
     opacity: 1,
-    fillOpacity: 0.8
+    fillOpacity: 0.7
   };
 
   function highlightFeature(e) {
