@@ -12,8 +12,8 @@ const
   maxauthors=200;
   maxpoints=maxinfiles;
 
-  exifs = 2;
-  exiftags : array [1..exifs] of string = ('File Name','Creator Work URL');
+  exifs = 3;
+  exiftags : array [1..exifs] of string = ('File Name','Creator Work URL','Artist  ');
 
 type
   longtext = record
@@ -295,7 +295,8 @@ begin
                if copy (vlink,1,4)<>'http'
                then vlink := '';
 
-               phcredit := col[14];
+               phcredit := '';//col[14];
+               if phcredit='' then phcredit := exifval (id,3);
 
                imgf := imgfile (col[5]);
                geometry := geomrevert (col[4]);
@@ -353,6 +354,7 @@ begin
       write (f,               ', "fn": "'+fn+'"');
       write (f,               ', "ln": "'+ln+'"');
       write (f,               ', "era": "'+era+'"');
+      write (f,               ', "phcredit" :"'+phcredit+'"');
       write (f,               ', "tags": "'+tags+'"');
 
       write (f,               ', "bio": [');

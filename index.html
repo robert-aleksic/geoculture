@@ -157,6 +157,13 @@
 
     t1.appendChild(t1g);
 
+    if (pr.phcredit) {
+      let t1pc = document.createElement('small');
+      t1pc.setAttribute ('style',"display: block; margin-top: -5px; text-align: right")
+      t1pc.innerText = 'photo: '+pr.phcredit;
+      t1.appendChild(t1pc);
+    }
+
     let t1p1 = [];
     for (let i = 0; i < pr.desc1.length; i++) {
       t1p1[i] = document.createElement('p');
