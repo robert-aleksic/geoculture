@@ -191,7 +191,7 @@
 
   // points & clusters
   var style_poi = {
-    radius: 6,
+    radius: 10,
     fillColor: "#ff7800",
     color: "#000",
     weight: 1,
@@ -222,7 +222,7 @@
      onEachFeature: onEachFeature
   });
 
-  var markers = L.markerClusterGroup({maxClusterRadius:80, disableClusteringAtZoom:16,
+  var markers = L.markerClusterGroup({maxClusterRadius:80, disableClusteringAtZoom:17,
                                       showCoverageOnHover: false});
   markers.addLayer(poi);
   map.addLayer(markers);
