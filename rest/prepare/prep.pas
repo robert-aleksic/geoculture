@@ -5,6 +5,7 @@ uses
   sysutils, base, csv;
 
 const
+  exiffile = 'exif.txt';
   photofolder='photo/';
 
   maxinfiles=1000;
@@ -165,7 +166,6 @@ var
   apos,i,j : integer;
 
 begin
-
   inpfnum := 0;
   traverse (photofolder+'*.*', @addfile);
   sortfiles;
@@ -252,7 +252,7 @@ begin
     end
   end;
   csvclose (cf);
-  writeln (f,'exiftool photo/*.* >exif.txt');
+  writeln (f,'./exif.sh');
   close (f);
 
   csvheadersstop;

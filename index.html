@@ -126,7 +126,7 @@
 
     let t1h1 = document.createElement('h1');
     t1h1.innerText = pr.name;
-    t1h1.setAttribute ('style',"display: block; margin: 0; margin-bottom: 8px");
+    t1h1.setAttribute ('style',"display: block; margin: 0; margin-bottom: 8px; line-height:1.2");
     t1.appendChild(t1h1);
 
     let t1c = document.createElement('small');
@@ -134,18 +134,27 @@
       ((pr.year!="") ? "; "+pr.year : "") +
       ((pr.teh!="") ? "; "+pr.teh : "") +
       ((pr.format!="") ? "; "+pr.format : "") +
-      ((pr.vlas!="") ? "; "+pr.vlas : "");
+      ((pr.vlas!="")&&(!pr.vlink) ? "; "+pr.vlas : "")+
+      ((pr.vlink) ? "; " : "");
     t1.appendChild(t1c);
 
+    if (pr.vlink){
+      let t1l = document.createElement ('a');
+      t1l.setAttribute ('target',"_blank");
+      t1l.setAttribute ('href',pr.vlink);
+      t1l.innerText = pr.vlas;
+      t1.appendChild(t1l);
+    }
 
     let t1g = document.createElement ('div');
     t1g.setAttribute ('class','spotlight');
     t1g.setAttribute ('data-src',pr.img);
 
-    let t1i = document.createElement ('img');
-    t1i.setAttribute ('src',pr.img);
-    t1i.setAttribute ('style',"max-width: 100%; margin-top: 2px; cursor: pointer");
-    t1g.appendChild(t1i);
+      let t1i = document.createElement ('img');
+      t1i.setAttribute ('src',pr.img);
+      t1i.setAttribute ('style',"max-width: 100%; margin-top: 2px; cursor: pointer");
+      t1g.appendChild(t1i);
+
     t1.appendChild(t1g);
 
     let t1p1 = [];

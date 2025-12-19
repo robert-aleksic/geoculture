@@ -4,7 +4,7 @@ File Name                       : 1002_Berkuljan Gojko 002.jpg
 Directory                       : photo
 File Size                       : 878 kB
 File Modification Date/Time     : 2025:10:27 19:50:36+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -300,7 +300,7 @@ File Name                       : 1003_Berkuljan Gojko 006.jpg
 Directory                       : photo
 File Size                       : 946 kB
 File Modification Date/Time     : 2025:10:27 19:50:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -416,7 +416,7 @@ File Name                       : 1004_Berkuljan Gojko_Belveder_1951.jpg
 Directory                       : photo
 File Size                       : 754 kB
 File Modification Date/Time     : 2025:10:27 19:50:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -759,7 +759,7 @@ File Name                       : 1005_Berkuljan Gojko_Cetinje_1955.jpg
 Directory                       : photo
 File Size                       : 763 kB
 File Modification Date/Time     : 2025:10:27 19:50:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -1062,7 +1062,7 @@ File Name                       : 1006_Čelebonović Marko Budva.jpg
 Directory                       : photo
 File Size                       : 707 kB
 File Modification Date/Time     : 2025:10:27 19:56:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -1238,7 +1238,7 @@ File Name                       : 1007_Dujšin Ribar Cata Perast.jpg
 Directory                       : photo
 File Size                       : 898 kB
 File Modification Date/Time     : 2025:10:27 19:56:54+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -1413,7 +1413,7 @@ File Name                       : 1008_Đurđe Teodorović, Kraj manastira Mora
 Directory                       : photo
 File Size                       : 783 kB
 File Modification Date/Time     : 2025:10:27 19:57:00+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -1589,7 +1589,7 @@ File Name                       : 1009_Đurović Niko Pavlova strana.jpg
 Directory                       : photo
 File Size                       : 591 kB
 File Modification Date/Time     : 2025:10:27 19:57:06+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -1930,7 +1930,7 @@ File Name                       : 1010_Đurović_Niko_Usnuli grad_1976.jpg
 Directory                       : photo
 File Size                       : 781 kB
 File Modification Date/Time     : 2025:10:27 19:57:12+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -2234,7 +2234,7 @@ File Name                       : 1011_jovan zonjic crnogorski pejsaz.jpg
 Directory                       : photo
 File Size                       : 1122 kB
 File Modification Date/Time     : 2025:10:27 19:57:18+01:00
-File Access Date/Time           : 2025:12:16 21:39:10+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -2372,7 +2372,7 @@ File Name                       : 1012_Jovan Zonjić Riječki grad.jpg
 Directory                       : photo
 File Size                       : 927 kB
 File Modification Date/Time     : 2025:10:27 19:57:28+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -2659,7 +2659,7 @@ File Name                       : 1013_Kujačić Mirko Kanli Kula.jpg
 Directory                       : photo
 File Size                       : 779 kB
 File Modification Date/Time     : 2025:10:27 19:57:40+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -2964,7 +2964,7 @@ File Name                       : 1014_Leković_Veliša_Godinjska Gruda.jpg
 Directory                       : photo
 File Size                       : 788 kB
 File Modification Date/Time     : 2025:10:27 19:57:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3262,7 +3262,7 @@ File Name                       : 1015_Lubarda_Petar Porušeno selo Čekanje.j
 Directory                       : photo
 File Size                       : 819 kB
 File Modification Date/Time     : 2025:10:27 19:52:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3369,7 +3369,7 @@ File Name                       : 1016_Lubarda_Petar _Vrtijeljka.jpg
 Directory                       : photo
 File Size                       : 943 kB
 File Modification Date/Time     : 2025:10:27 19:52:48+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3463,7 +3463,7 @@ File Name                       : 1017_Lubarda_Petar_Motiv iz Crmnice.jpg
 Directory                       : photo
 File Size                       : 278 kB
 File Modification Date/Time     : 2025:10:27 19:53:14+01:00
-File Access Date/Time           : 2025:12:16 21:39:10+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3567,7 +3567,7 @@ File Name                       : 1018_Lubarda_Petar_Brajići.jpg
 Directory                       : photo
 File Size                       : 806 kB
 File Modification Date/Time     : 2025:10:27 19:53:18+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3661,7 +3661,7 @@ File Name                       : 1019_Lubarda_Petar_Brda.jpg
 Directory                       : photo
 File Size                       : 1170 kB
 File Modification Date/Time     : 2025:10:27 19:53:24+01:00
-File Access Date/Time           : 2025:12:16 21:39:10+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3763,7 +3763,7 @@ File Name                       : 1020_Lubarda_Petar_Crnogorska brda.jpg
 Directory                       : photo
 File Size                       : 821 kB
 File Modification Date/Time     : 2025:10:27 19:53:36+01:00
-File Access Date/Time           : 2025:12:16 21:39:10+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3857,7 +3857,7 @@ File Name                       : 1021_Lubarda_Petar_Iz okoline Cetinja.jpg
 Directory                       : photo
 File Size                       : 1100 kB
 File Modification Date/Time     : 2025:10:27 19:53:40+01:00
-File Access Date/Time           : 2025:12:16 21:39:10+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -3960,7 +3960,7 @@ File Name                       : 1022_Lubarda_Petar_Noć u Crnoj Gori.jpg
 Directory                       : photo
 File Size                       : 915 kB
 File Modification Date/Time     : 2025:10:27 19:53:48+01:00
-File Access Date/Time           : 2025:12:16 21:39:10+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -4203,7 +4203,7 @@ File Name                       : 1023_Lubarda_Petar_Pogled sa Starog Bara.jpg
 Directory                       : photo
 File Size                       : 401 kB
 File Modification Date/Time     : 2025:10:27 19:53:56+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -4306,7 +4306,7 @@ File Name                       : 1024_Lubarda_Petar_Porušeno selo Čekanje.j
 Directory                       : photo
 File Size                       : 591 kB
 File Modification Date/Time     : 2025:10:27 19:54:02+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -4409,7 +4409,7 @@ File Name                       : 1025_Lubarda_Petar_Stijene.jpg
 Directory                       : photo
 File Size                       : 729 kB
 File Modification Date/Time     : 2025:10:27 19:54:08+01:00
-File Access Date/Time           : 2025:12:16 21:39:12+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -4511,7 +4511,7 @@ File Name                       : 1026_Lubarda_Petar_Vranjina.jpg
 Directory                       : photo
 File Size                       : 1022 kB
 File Modification Date/Time     : 2025:10:27 19:54:12+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -4612,7 +4612,7 @@ File Name                       : 1028_Maskareli Mario Palac iz Dobrote.jpg
 Directory                       : photo
 File Size                       : 1070 kB
 File Modification Date/Time     : 2025:10:27 19:57:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -4915,7 +4915,7 @@ File Name                       : 1029_Milunović Milo_11.jpg
 Directory                       : photo
 File Size                       : 917 kB
 File Modification Date/Time     : 2025:10:27 19:51:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -5185,7 +5185,7 @@ File Name                       : 1030_Milunović Milo_Iz okoline Budve.jpg
 Directory                       : photo
 File Size                       : 866 kB
 File Modification Date/Time     : 2025:10:27 19:51:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -5325,7 +5325,7 @@ File Name                       : 1031_Milunović Milo_Iz okoline Cetinja.jpg
 Directory                       : photo
 File Size                       : 867 kB
 File Modification Date/Time     : 2025:10:27 19:51:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -5593,7 +5593,7 @@ File Name                       : 1032_Milunović Milo_Kuća na Svetom Stefanu
 Directory                       : photo
 File Size                       : 899 kB
 File Modification Date/Time     : 2025:10:27 19:52:06+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:49+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -5863,7 +5863,7 @@ File Name                       : 1033_Milunović Milo_Sveti stefan_2.jpg
 Directory                       : photo
 File Size                       : 1029 kB
 File Modification Date/Time     : 2025:10:27 19:52:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -6154,7 +6154,7 @@ File Name                       : 1034_Milunović Milo_Sveti stefan_3.jpg
 Directory                       : photo
 File Size                       : 896 kB
 File Modification Date/Time     : 2025:10:27 19:52:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -6451,7 +6451,7 @@ File Name                       : 1035_Milunović Milo_Ulcinj.jpg
 Directory                       : photo
 File Size                       : 562 kB
 File Modification Date/Time     : 2025:10:27 19:52:30+01:00
-File Access Date/Time           : 2025:12:16 21:39:14+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -6721,7 +6721,7 @@ File Name                       : 1036_Novaković Ivo.jpg
 Directory                       : photo
 File Size                       : 634 kB
 File Modification Date/Time     : 2025:10:27 19:58:12+01:00
-File Access Date/Time           : 2025:12:16 21:39:14+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -6897,7 +6897,7 @@ File Name                       : 1037_Novaković Ivo_Primorje .jpg
 Directory                       : photo
 File Size                       : 657 kB
 File Modification Date/Time     : 2025:10:27 19:58:20+01:00
-File Access Date/Time           : 2025:12:16 21:39:14+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -7074,7 +7074,7 @@ File Name                       : 1038_Poček Pero  _Iz okoline Cetinja.jpg
 Directory                       : photo
 File Size                       : 732 kB
 File Modification Date/Time     : 2025:10:27 19:54:40+01:00
-File Access Date/Time           : 2025:12:16 21:39:15+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -7178,7 +7178,7 @@ File Name                       : 1039_Poček Pero 02.jpg
 Directory                       : photo
 File Size                       : 668 kB
 File Modification Date/Time     : 2025:10:27 19:54:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -7467,7 +7467,7 @@ File Name                       : 1040_Poček Pero Gorski vijenac 04.jpg
 Directory                       : photo
 File Size                       : 783 kB
 File Modification Date/Time     : 2025:10:27 19:54:52+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -7715,7 +7715,7 @@ File Name                       : 1041_Poček Pero Gorski vijenac 25.jpg
 Directory                       : photo
 File Size                       : 870 kB
 File Modification Date/Time     : 2025:10:27 19:55:00+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -7969,7 +7969,7 @@ File Name                       : 1043_Poček Pero Predio.jpg
 Directory                       : photo
 File Size                       : 529 kB
 File Modification Date/Time     : 2025:10:27 19:55:16+01:00
-File Access Date/Time           : 2025:12:16 21:39:18+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -8097,7 +8097,7 @@ File Name                       : 1044_Poček Pero Ulcinjsko polje.jpg
 Directory                       : photo
 File Size                       : 599 kB
 File Modification Date/Time     : 2025:10:27 19:55:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -8353,7 +8353,7 @@ File Name                       : 1045_Poček Pero_Lovćen.jpg
 Directory                       : photo
 File Size                       : 712 kB
 File Modification Date/Time     : 2025:10:27 19:55:30+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -8689,7 +8689,7 @@ File Name                       : 1046_Prijić Aleksandar Bjeloška brda_1952.
 Directory                       : photo
 File Size                       : 1024 kB
 File Modification Date/Time     : 2025:10:27 19:55:42+01:00
-File Access Date/Time           : 2025:12:16 21:39:18+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -8982,7 +8982,7 @@ File Name                       : 1047_Prijić Aleksandar rapsodija zabljak.jpg
 Directory                       : photo
 File Size                       : 815 kB
 File Modification Date/Time     : 2025:10:27 19:55:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -9116,7 +9116,7 @@ File Name                       : 1048_Prijić Aleksandar_Pogled s Orjena.jpg
 Directory                       : photo
 File Size                       : 926 kB
 File Modification Date/Time     : 2025:10:27 19:55:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -9248,7 +9248,7 @@ File Name                       : 1049_Prijić Aleksandar_Predio_1956.jpg
 Directory                       : photo
 File Size                       : 910 kB
 File Modification Date/Time     : 2025:10:27 19:56:06+01:00
-File Access Date/Time           : 2025:12:16 21:39:18+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -9555,7 +9555,7 @@ File Name                       : 1050_Prijić Aleksandar_Spaljeni Brajići_19
 Directory                       : photo
 File Size                       : 928 kB
 File Modification Date/Time     : 2025:10:27 19:56:14+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -9680,7 +9680,7 @@ File Name                       : 1051_Radonjić_Đuro_Ulica u Kotoru.jpg
 Directory                       : photo
 File Size                       : 751 kB
 File Modification Date/Time     : 2025:10:27 19:58:28+01:00
-File Access Date/Time           : 2025:12:16 21:39:19+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -9971,7 +9971,7 @@ File Name                       : 1052_Radović Vuko _Klisura kod Kolašina.JP
 Directory                       : photo
 File Size                       : 827 kB
 File Modification Date/Time     : 2025:10:27 19:58:42+01:00
-File Access Date/Time           : 2025:12:16 21:39:19+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -10134,7 +10134,7 @@ File Name                       : 1054_Radović Vuko Sveti Stefan.jpg
 Directory                       : photo
 File Size                       : 1076 kB
 File Modification Date/Time     : 2025:10:27 19:59:00+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -10448,7 +10448,7 @@ File Name                       : 1056_Šobajić Ilija_Onogošt.jpg
 Directory                       : photo
 File Size                       : 701 kB
 File Modification Date/Time     : 2025:10:27 19:59:12+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -10587,7 +10587,7 @@ File Name                       : 1057_Stanić_Vojo_Rijeka Crnojevića_1967.jp
 Directory                       : photo
 File Size                       : 1154 kB
 File Modification Date/Time     : 2025:10:27 19:59:20+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -10922,7 +10922,7 @@ File Name                       : 1058_Stanković _Luka Topla Njegoševa ško
 Directory                       : photo
 File Size                       : 825 kB
 File Modification Date/Time     : 2025:10:27 19:59:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -11215,7 +11215,7 @@ File Name                       : 1059_Stanković _Luka_Savina.jpg
 Directory                       : photo
 File Size                       : 839 kB
 File Modification Date/Time     : 2025:10:27 20:00:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -11507,7 +11507,7 @@ File Name                       : 1060_Stanković Luka _Budva.jpg
 Directory                       : photo
 File Size                       : 895 kB
 File Modification Date/Time     : 2025:10:27 20:00:10+01:00
-File Access Date/Time           : 2025:12:16 21:39:21+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -11644,7 +11644,7 @@ File Name                       : 1061_Stanković Luka Kula u Plavu.jpg
 Directory                       : photo
 File Size                       : 820 kB
 File Modification Date/Time     : 2025:10:27 20:00:18+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -11782,7 +11782,7 @@ File Name                       : 1062_Stanković Luka_Žabljak_1950.jpg
 Directory                       : photo
 File Size                       : 850 kB
 File Modification Date/Time     : 2025:10:27 20:00:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -12077,7 +12077,7 @@ File Name                       : 1063_Vujović Savo Herceg Novi.jpg
 Directory                       : photo
 File Size                       : 5.9 MB
 File Modification Date/Time     : 2025:10:27 20:00:34+01:00
-File Access Date/Time           : 2025:12:16 21:39:21+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:58+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -12412,7 +12412,7 @@ File Name                       : 1064_Vujović Savo Igalo 1949.jpg
 Directory                       : photo
 File Size                       : 462 kB
 File Modification Date/Time     : 2025:10:27 20:00:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -12707,7 +12707,7 @@ File Name                       : 1065_Vujović Savo_Stijena.jpg
 Directory                       : photo
 File Size                       : 867 kB
 File Modification Date/Time     : 2025:10:27 20:00:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -13010,7 +13010,7 @@ File Name                       : 1066_Vujović Savo_Ulcinj_1963.jpg
 Directory                       : photo
 File Size                       : 693 kB
 File Modification Date/Time     : 2025:10:27 20:00:56+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -13130,7 +13130,7 @@ File Name                       : 1067_Vukotić_Mihajlo Iz okoline Cetinja.jpg
 Directory                       : photo
 File Size                       : 881 kB
 File Modification Date/Time     : 2025:10:27 19:51:14+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -13272,7 +13272,7 @@ File Name                       : 1068_Vukotić_Mihajlo.jpg
 Directory                       : photo
 File Size                       : 603 kB
 File Modification Date/Time     : 2025:10:27 19:51:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -13409,7 +13409,7 @@ File Name                       : 1069_Vukotić_Mihajlo_Motiv iz Ulcinja.jpg
 Directory                       : photo
 File Size                       : 587 kB
 File Modification Date/Time     : 2025:10:27 19:51:34+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -13662,7 +13662,7 @@ File Name                       : 1070_Vušković Miloš_Herceg Novi.jpg
 Directory                       : photo
 File Size                       : 1053 kB
 File Modification Date/Time     : 2025:10:27 20:01:08+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -13812,7 +13812,7 @@ File Name                       : 1071_Vušković Miloš_Cetinje.jpg
 Directory                       : photo
 File Size                       : 1167 kB
 File Modification Date/Time     : 2025:10:27 20:01:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -13964,7 +13964,7 @@ File Name                       : 1072_Vušković Miloš_Durmitor.jpg
 Directory                       : photo
 File Size                       : 793 kB
 File Modification Date/Time     : 2025:10:27 20:01:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -14112,7 +14112,7 @@ File Name                       : 1073_Vušković Miloš_Gruda.jpg
 Directory                       : photo
 File Size                       : 1163 kB
 File Modification Date/Time     : 2025:12:12 20:05:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -14263,7 +14263,7 @@ File Name                       : 1074_Vušković Miloš_Herceg Novi (2).jpg
 Directory                       : photo
 File Size                       : 745 kB
 File Modification Date/Time     : 2025:10:27 20:01:36+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -14394,7 +14394,7 @@ File Name                       : 1075_Vušković Miloš_Herceg Novi.jpg
 Directory                       : photo
 File Size                       : 805 kB
 File Modification Date/Time     : 2025:10:27 20:01:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -14726,7 +14726,7 @@ File Name                       : 1076_Vušković Miloš_Ivanova korita.jpg
 Directory                       : photo
 File Size                       : 1151 kB
 File Modification Date/Time     : 2025:10:27 20:01:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -14878,7 +14878,7 @@ File Name                       : 1077_Vušković Miloš_Komovi.jpg
 Directory                       : photo
 File Size                       : 764 kB
 File Modification Date/Time     : 2025:10:27 20:01:56+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -15129,7 +15129,7 @@ File Name                       : 1078_Vušković Miloš_Obod.jpg
 Directory                       : photo
 File Size                       : 721 kB
 File Modification Date/Time     : 2025:10:27 20:02:08+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -15281,7 +15281,7 @@ File Name                       : 1079_Vušković Miloš_Perast (2).jpg
 Directory                       : photo
 File Size                       : 562 kB
 File Modification Date/Time     : 2025:10:27 20:02:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -15429,7 +15429,7 @@ File Name                       : 1080_Vušković Miloš_Perast.jpg
 Directory                       : photo
 File Size                       : 883 kB
 File Modification Date/Time     : 2025:10:27 20:02:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -15579,7 +15579,7 @@ File Name                       : 1081_Vušković Miloš_Put za Meljine.jpg
 Directory                       : photo
 File Size                       : 850 kB
 File Modification Date/Time     : 2025:10:27 20:02:28+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -15725,7 +15725,7 @@ File Name                       : 1082_Vušković Miloš_Sveti Stefan (2).jpg
 Directory                       : photo
 File Size                       : 952 kB
 File Modification Date/Time     : 2025:10:27 20:02:36+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -15877,7 +15877,7 @@ File Name                       : 1083_Vušković Miloš_Sveti Stefan.jpg
 Directory                       : photo
 File Size                       : 426 kB
 File Modification Date/Time     : 2025:10:27 20:02:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16027,7 +16027,7 @@ File Name                       : 1084_Vušković Miloš_Željezara.jpg
 Directory                       : photo
 File Size                       : 956 kB
 File Modification Date/Time     : 2025:10:27 20:02:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16179,7 +16179,7 @@ File Name                       : 1086_Ankelen Eugen , No. 18, venetian Fishing 
 Directory                       : photo
 File Size                       : 215 kB
 File Modification Date/Time     : 2025:12:12 20:31:38+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16223,7 +16223,7 @@ File Name                       : 1087_Anton_Karinger_-_Kotorski_zaliv.jpg
 Directory                       : photo
 File Size                       : 128 kB
 File Modification Date/Time     : 2025:10:27 20:03:30+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16263,7 +16263,7 @@ File Name                       : 1088_Bastać Veselin Venjo_Gospa od Škrpjel
 Directory                       : photo
 File Size                       : 1031 kB
 File Modification Date/Time     : 2025:12:12 20:11:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16553,7 +16553,7 @@ File Name                       : 1089_Bocca_di_Cattaro_Fiedler_1853.Opera illus
 Directory                       : photo
 File Size                       : 1047 kB
 File Modification Date/Time     : 2025:10:27 20:03:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16645,7 +16645,7 @@ File Name                       : 1090_Carl Goebel, Boka Kotorska.jpg
 Directory                       : photo
 File Size                       : 385 kB
 File Modification Date/Time     : 2025:10:27 20:03:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:52+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16712,7 +16712,7 @@ File Name                       : 1091_Cedric_ Emanuel 1.jpg
 Directory                       : photo
 File Size                       : 205 kB
 File Modification Date/Time     : 2025:10:27 20:03:56+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16757,7 +16757,7 @@ File Name                       : 1092_Cedric_ Emanuel 2.jpg
 Directory                       : photo
 File Size                       : 441 kB
 File Modification Date/Time     : 2025:10:27 20:04:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16805,7 +16805,7 @@ File Name                       : 1093_Christian Frederik Emil Eckardt, Mountain
 Directory                       : photo
 File Size                       : 190 kB
 File Modification Date/Time     : 2025:10:27 20:04:10+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16850,7 +16850,7 @@ File Name                       : 1094_Christian_Eckardt_-_Formiddag_i_bugten_ve
 Directory                       : photo
 File Size                       : 350 kB
 File Modification Date/Time     : 2025:12:12 20:31:38+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16897,7 +16897,7 @@ File Name                       : 1095_Christian_Eckardt_-_Fra_Bugten_ved_Cattar
 Directory                       : photo
 File Size                       : 435 kB
 File Modification Date/Time     : 2025:12:12 20:31:38+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -16944,7 +16944,7 @@ File Name                       : 1096_Feodor Karaćaj HN pogled na tvrđavu Sv
 Directory                       : photo
 File Size                       : 331 kB
 File Modification Date/Time     : 2025:10:27 20:04:36+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17014,7 +17014,7 @@ File Name                       : 1097_Feodor Karaćaj HN.jpg
 Directory                       : photo
 File Size                       : 228 kB
 File Modification Date/Time     : 2025:10:27 20:04:42+01:00
-File Access Date/Time           : 2025:12:16 21:39:23+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17084,7 +17084,7 @@ File Name                       : 1098_Fritz Lach, Pogled na Perast 1909.jpg
 Directory                       : photo
 File Size                       : 369 kB
 File Modification Date/Time     : 2025:10:27 20:04:52+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17129,7 +17129,7 @@ File Name                       : 1099_Fritz_Lach_Perasto_Bocche_di_Cattaro_1927
 Directory                       : photo
 File Size                       : 345 kB
 File Modification Date/Time     : 2025:10:27 20:04:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17163,7 +17163,7 @@ File Name                       : 1100_Gurlitt, Louis Kotorska luka.jpg
 Directory                       : photo
 File Size                       : 182 kB
 File Modification Date/Time     : 2025:10:27 20:05:08+01:00
-File Access Date/Time           : 2025:12:16 21:39:23+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17230,7 +17230,7 @@ File Name                       : 1101_Gurlitt, Louis Luka u Kotoru u Dalmaciji,
 Directory                       : photo
 File Size                       : 165 kB
 File Modification Date/Time     : 2025:10:27 20:05:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17275,7 +17275,7 @@ File Name                       : 1102_Gurlitt, Louis Pogled na Ljutu.jpg
 Directory                       : photo
 File Size                       : 954 kB
 File Modification Date/Time     : 2025:10:27 20:05:32+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17371,7 +17371,7 @@ File Name                       : 1103_Gurlitt, Louis.jpg
 Directory                       : photo
 File Size                       : 131 kB
 File Modification Date/Time     : 2025:10:27 20:05:38+01:00
-File Access Date/Time           : 2025:12:16 21:39:23+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17438,7 +17438,7 @@ File Name                       : 1104_Gurlitt, Louis_Pogled na mletačku tvrđ
 Directory                       : photo
 File Size                       : 176 kB
 File Modification Date/Time     : 2025:10:27 20:05:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17476,7 +17476,7 @@ File Name                       : 1105_Hermann_Corrodi_Le_Bocche_di_Cattaro.jpg
 Directory                       : photo
 File Size                       : 748 kB
 File Modification Date/Time     : 2025:10:27 20:05:54+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17522,7 +17522,7 @@ File Name                       : 1106_Hugo Chleremont_Put od Kotora ka Cetinu_1
 Directory                       : photo
 File Size                       : 652 kB
 File Modification Date/Time     : 2025:10:27 20:06:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17602,7 +17602,7 @@ File Name                       : 1107_Ilustrated London News1869 .jpg
 Directory                       : photo
 File Size                       : 841 kB
 File Modification Date/Time     : 2025:10:27 20:06:10+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -17699,7 +17699,7 @@ File Name                       : 1108_Charles_Barbant_Pogled na Verige sa puta 
 Directory                       : photo
 File Size                       : 935 kB
 File Modification Date/Time     : 2025:10:27 20:06:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -18024,7 +18024,7 @@ File Name                       : 1109_Charles Barbant_Fašinada.jpg
 Directory                       : photo
 File Size                       : 333 kB
 File Modification Date/Time     : 2025:10:27 20:06:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -18311,7 +18311,7 @@ File Name                       : 1110_Irijart_HN.jpg
 Directory                       : photo
 File Size                       : 288 kB
 File Modification Date/Time     : 2025:10:27 20:06:34+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -18598,7 +18598,7 @@ File Name                       : 1111_Kargl_Rudolf_Kotor_Cathedral.jpg
 Directory                       : photo
 File Size                       : 759 kB
 File Modification Date/Time     : 2025:10:27 20:06:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -18643,7 +18643,7 @@ File Name                       : 1112_Lubarda Petar Lubarda Kuća u Prčanju_
 Directory                       : photo
 File Size                       : 844 kB
 File Modification Date/Time     : 2025:10:27 20:06:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -18932,7 +18932,7 @@ File Name                       : 1113_Mario Maskareli Prčanj 1953 .jpg
 Directory                       : photo
 File Size                       : 125 kB
 File Modification Date/Time     : 2025:10:27 20:06:54+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19003,7 +19003,7 @@ File Name                       : 1114_Michael Zeno Diemer Boka Kotorska sa crkv
 Directory                       : photo
 File Size                       : 284 kB
 File Modification Date/Time     : 2025:10:27 20:07:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19046,7 +19046,7 @@ File Name                       : 1115_Michael Zeno Diemer Gospa od Škrpjela.j
 Directory                       : photo
 File Size                       : 291 kB
 File Modification Date/Time     : 2025:10:27 20:07:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19089,7 +19089,7 @@ File Name                       : 1116_Michael Zeno Diemer_Jedrenjak i pomorska 
 Directory                       : photo
 File Size                       : 316 kB
 File Modification Date/Time     : 2025:10:27 20:07:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19132,7 +19132,7 @@ File Name                       : 1117_Nepoznati autor. Wien, Ed. Hölzel um 18
 Directory                       : photo
 File Size                       : 932 kB
 File Modification Date/Time     : 2025:10:27 20:07:30+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19288,7 +19288,7 @@ File Name                       : 1118_Nepoznati autor_Kotor.jpg
 Directory                       : photo
 File Size                       : 1144 kB
 File Modification Date/Time     : 2025:10:27 20:07:38+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19355,7 +19355,7 @@ File Name                       : 1119_Pavlović_Milo_Gospa od Škrpjela.jpg
 Directory                       : photo
 File Size                       : 8.0 MB
 File Modification Date/Time     : 2025:10:27 20:07:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19605,7 +19605,7 @@ File Name                       : 1120_Perko Anton _Sveti Franjo_1889.jpg
 Directory                       : photo
 File Size                       : 287 kB
 File Modification Date/Time     : 2025:10:27 20:07:52+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19643,7 +19643,7 @@ File Name                       : 1121_Perko_Anton_Castelnuovo, Forte di mare.jp
 Directory                       : photo
 File Size                       : 802 kB
 File Modification Date/Time     : 2025:10:27 20:08:00+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19717,7 +19717,7 @@ File Name                       : 1122_Perko_Anton_Kotorski zaliv.jpg
 Directory                       : photo
 File Size                       : 283 kB
 File Modification Date/Time     : 2025:10:27 20:08:06+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19782,7 +19782,7 @@ File Name                       : 1123_Risan ILN 1876.jpg
 Directory                       : photo
 File Size                       : 235 kB
 File Modification Date/Time     : 2025:10:27 20:08:12+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19876,7 +19876,7 @@ File Name                       : 1124_Rudof von Alt, Kotorski zaliv, 1840.jpg
 Directory                       : photo
 File Size                       : 425 kB
 File Modification Date/Time     : 2025:10:27 20:08:18+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -19940,7 +19940,7 @@ File Name                       : 1125_Rudof von Alt, Muo, 1841.jpg
 Directory                       : photo
 File Size                       : 126 kB
 File Modification Date/Time     : 2025:10:27 20:08:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20004,7 +20004,7 @@ File Name                       : 1126_Rudolf von Alt, Pogled na Muo i Dobrotu_1
 Directory                       : photo
 File Size                       : 116 kB
 File Modification Date/Time     : 2025:10:27 20:08:34+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20038,7 +20038,7 @@ File Name                       : 1127_Rudolf von Alt_-_Ansicht_von_Dobrota_gege
 Directory                       : photo
 File Size                       : 804 kB
 File Modification Date/Time     : 2025:10:27 20:08:40+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20131,7 +20131,7 @@ File Name                       : 1128_Rudolf_von_Alt_-_Der_Domplatz_von_Cattaro
 Directory                       : photo
 File Size                       : 1755 kB
 File Modification Date/Time     : 2025:10:27 20:08:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20222,7 +20222,7 @@ File Name                       : 1129_Schindler Emil Jakob Kotor.jpg
 Directory                       : photo
 File Size                       : 501 kB
 File Modification Date/Time     : 2025:10:27 20:08:54+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:30:59+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20299,7 +20299,7 @@ File Name                       : 1130_Somieu Frederic_Kotor_1877..jpg
 Directory                       : photo
 File Size                       : 1707 kB
 File Modification Date/Time     : 2025:10:27 20:09:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20397,7 +20397,7 @@ File Name                       : 1131_Trentsensky_ Matthias_Pogled na Kotor,  1
 Directory                       : photo
 File Size                       : 167 kB
 File Modification Date/Time     : 2025:10:27 20:09:10+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20460,7 +20460,7 @@ File Name                       : 1132_Vujović Savo_Pristanište_1949.jpg
 Directory                       : photo
 File Size                       : 929 kB
 File Modification Date/Time     : 2025:12:05 18:28:28+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20754,7 +20754,7 @@ File Name                       : 1133_Wagner Adolf Pogled na Perast u Boki Koto
 Directory                       : photo
 File Size                       : 688 kB
 File Modification Date/Time     : 2025:10:27 20:09:18+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20799,7 +20799,7 @@ File Name                       : 1134_Lubarda_Petar_Donji kraj.jpg
 Directory                       : photo
 File Size                       : 565 kB
 File Modification Date/Time     : 2025:10:27 19:54:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -20907,7 +20907,7 @@ File Name                       : 1140_Bogdanović Olga_Kuće na Svetom Stefan
 Directory                       : photo
 File Size                       : 1094 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:37+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -21198,7 +21198,7 @@ File Name                       : 1141_Brajović Anastazija Velika plaža_1981
 Directory                       : photo
 File Size                       : 862 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -21541,7 +21541,7 @@ File Name                       : 1142_Demonstracija flote ispred Tivta.jpg
 Directory                       : photo
 File Size                       : 483 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -21821,7 +21821,7 @@ File Name                       : 1143_Đokić_Vojislav_Herceg Novi1950.jpg
 Directory                       : photo
 File Size                       : 827 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:50+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -22116,7 +22116,7 @@ File Name                       : 1144_Đurović Niko_Predio sa Ribnice.jpg
 Directory                       : photo
 File Size                       : 1275 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -22411,7 +22411,7 @@ File Name                       : 1145_Filipović Branko Filo Herceg Novi.jpg
 Directory                       : photo
 File Size                       : 960 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -22702,7 +22702,7 @@ File Name                       : 1146_Filipović Branko Filo Primorski motiv.j
 Directory                       : photo
 File Size                       : 963 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:38+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -22995,7 +22995,7 @@ File Name                       : 1147_Filipović Branko Filo Sveti Stefan.jpg
 Directory                       : photo
 File Size                       : 1084 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -23288,7 +23288,7 @@ File Name                       : 1148_Filipović Branko Filo_Boka.jpg
 Directory                       : photo
 File Size                       : 443 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -23579,7 +23579,7 @@ File Name                       : 1149_Filipović Branko Filo_Nikšić.jpg
 Directory                       : photo
 File Size                       : 1033 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:53+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -23872,7 +23872,7 @@ File Name                       : 1150_Ivanović Ljuba Begovski dom.jpg
 Directory                       : photo
 File Size                       : 1029 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -24161,7 +24161,7 @@ File Name                       : 1151_Ivanović_Ljuba_Bijelo Polje.jpg
 Directory                       : photo
 File Size                       : 939 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:00+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -24494,7 +24494,7 @@ File Name                       : 1152_Ivanović_Ljuba_Budva_1927.jpg
 Directory                       : photo
 File Size                       : 816 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -24782,7 +24782,7 @@ File Name                       : 1153_Ivanović_Ljuba_Ribnica.jpg
 Directory                       : photo
 File Size                       : 873 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -25070,7 +25070,7 @@ File Name                       : 1154_Ivanović_Ljuba_Vezirov most.jpg
 Directory                       : photo
 File Size                       : 952 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -25398,7 +25398,7 @@ File Name                       : 1155_Karinger Anton_Posmrtna povorka knjaza Da
 Directory                       : photo
 File Size                       : 853 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -25704,7 +25704,7 @@ File Name                       : 1156_Karlavaris Bogumil.jpg
 Directory                       : photo
 File Size                       : 574 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -25873,7 +25873,7 @@ File Name                       : 1157_Konjović Milan Predio sa primorja 2.jpg
 Directory                       : photo
 File Size                       : 1363 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:44+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -26180,7 +26180,7 @@ File Name                       : 1158_Krizman Tomislav_Stara Podgorica_1951.jpg
 Directory                       : photo
 File Size                       : 933 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -26515,7 +26515,7 @@ File Name                       : 1159_Luka Sstanković_Herceg Novi, .jpg
 Directory                       : photo
 File Size                       : 725 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -26793,7 +26793,7 @@ File Name                       : 1160_Luka Stanković_Njeguši.jpg
 Directory                       : photo
 File Size                       : 613 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -27069,7 +27069,7 @@ File Name                       : 1161_Milunović Milo Vranjina.jpg
 Directory                       : photo
 File Size                       : 826 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:52+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -27360,7 +27360,7 @@ File Name                       : 1162_Milunović Milo_Motiv sa Primorja.jpg
 Directory                       : photo
 File Size                       : 746 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:52+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -27655,7 +27655,7 @@ File Name                       : 1163_Milunović Milo_Orlov krš.jpg
 Directory                       : photo
 File Size                       : 1035 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -27946,7 +27946,7 @@ File Name                       : 1164_Milunović_Milo_Motiv sa primorja.jpg
 Directory                       : photo
 File Size                       : 1091 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -28237,7 +28237,7 @@ File Name                       : 1165_Milunović_Milo_Sveti Stefan_001.jpg
 Directory                       : photo
 File Size                       : 539 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -28528,7 +28528,7 @@ File Name                       : 1166_Nepoznati autor Njegoš sa sestrom.jpg
 Directory                       : photo
 File Size                       : 1136 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -28826,7 +28826,7 @@ File Name                       : 1167_Pavlović Milo _Budva.jpg
 Directory                       : photo
 File Size                       : 770 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -29119,7 +29119,7 @@ File Name                       : 1168_Poček Pero_ Mlin pod Cetinjskim manasti
 Directory                       : photo
 File Size                       : 896 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -29400,7 +29400,7 @@ File Name                       : 1169_Prijić Aleksandar_Kotor.jpg
 Directory                       : photo
 File Size                       : 1324 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -29735,7 +29735,7 @@ File Name                       : 1170_Prijić Aleksandar_Kuća na Svetom Stef
 Directory                       : photo
 File Size                       : 1111 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:56+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -30028,7 +30028,7 @@ File Name                       : 1171_Prijić Aleksandar_Titograd_1949.jpg
 Directory                       : photo
 File Size                       : 1306 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -30321,7 +30321,7 @@ File Name                       : 1172_Prijić_Aleksandar_Cetinje_1953.jpg
 Directory                       : photo
 File Size                       : 1147 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -30614,7 +30614,7 @@ File Name                       : 1173_Prijić_Aleksandar_Herceg Novi_1949.jpg
 Directory                       : photo
 File Size                       : 1114 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -30907,7 +30907,7 @@ File Name                       : 1174_Prijić_Aleksandar_Humci_1950.jpg
 Directory                       : photo
 File Size                       : 1342 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -31200,7 +31200,7 @@ File Name                       : 1175_Prijić_Aleksandar_Virpazar_1966.jpg
 Directory                       : photo
 File Size                       : 695 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:01+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -31451,7 +31451,7 @@ File Name                       : 1176_Radović Vuko Predio iz Platija.jpg
 Directory                       : photo
 File Size                       : 1133 kB
 File Modification Date/Time     : 2025:12:10 19:24:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -31786,7 +31786,7 @@ File Name                       : 1177_Šaban Desanka_Njeguši.jpg
 Directory                       : photo
 File Size                       : 973 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -32077,7 +32077,7 @@ File Name                       : 1178_Šobajić Ilija Onogošt_1938_01.jpg
 Directory                       : photo
 File Size                       : 960 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -32410,7 +32410,7 @@ File Name                       : 1179_Stanković Luka _Grkavac.jpg
 Directory                       : photo
 File Size                       : 1110 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -32738,7 +32738,7 @@ File Name                       : 1180_Vujović Savo_Igalo_1948.jpg
 Directory                       : photo
 File Size                       : 1027 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -33071,7 +33071,7 @@ File Name                       : 1181_Vujović_Savo_Gruda.jpg
 Directory                       : photo
 File Size                       : 988 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -33364,7 +33364,7 @@ File Name                       : 1182_Vujović_Savo_Savina_1948.jpg
 Directory                       : photo
 File Size                       : 791 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -33657,7 +33657,7 @@ File Name                       : 1183_Vušković Miloš_Biljarda.jpg
 Directory                       : photo
 File Size                       : 984 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -33948,7 +33948,7 @@ File Name                       : 1184_Vušković Miloš_Budva_1958.jpg
 Directory                       : photo
 File Size                       : 641 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:57+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -34241,7 +34241,7 @@ File Name                       : 1185_Vušković Miloš_Herceg Novi_1930.jpg
 Directory                       : photo
 File Size                       : 864 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -34534,7 +34534,7 @@ File Name                       : 1186_Vušković Miloš_Herceg Novi_1952.jpg
 Directory                       : photo
 File Size                       : 1164 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -34827,7 +34827,7 @@ File Name                       : 1187_Vušković_Miloš_Cetinje_1959.jpg
 Directory                       : photo
 File Size                       : 1059 kB
 File Modification Date/Time     : 2025:12:05 18:19:46+01:00
-File Access Date/Time           : 2025:12:16 21:39:57+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -35115,7 +35115,7 @@ File Name                       : 1188_Lenard_Robert_Podgorica_1918_Podgorica.jp
 Directory                       : photo
 File Size                       : 1083 kB
 File Modification Date/Time     : 2025:12:06 18:13:12+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -35420,7 +35420,7 @@ File Name                       : 1189_Pero Poček Gorski vijenac_Vladika čes
 Directory                       : photo
 File Size                       : 812 kB
 File Modification Date/Time     : 2025:12:06 18:13:20+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:02+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -35682,7 +35682,7 @@ File Name                       : 1190_Njegoš sa pratnjom na prevoju Krstac.jp
 Directory                       : photo
 File Size                       : 866 kB
 File Modification Date/Time     : 2025:12:06 18:12:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -35971,7 +35971,7 @@ File Name                       : 1191 Stojanovic Sreten sveti stefan.jpg
 Directory                       : photo
 File Size                       : 643 kB
 File Modification Date/Time     : 2025:12:06 18:12:48+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -36108,7 +36108,7 @@ File Name                       : 1192_Milunović Milo Sastav Morače sa ribni
 Directory                       : photo
 File Size                       : 785 kB
 File Modification Date/Time     : 2025:12:06 18:44:48+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -36374,7 +36374,7 @@ File Name                       : 1193_Brajović Anastazija Herceg Novi.jpg
 Directory                       : photo
 File Size                       : 953 kB
 File Modification Date/Time     : 2025:12:10 19:29:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -36662,7 +36662,7 @@ File Name                       : 1194_Đokić_Voislav_Prčanj.jpg
 Directory                       : photo
 File Size                       : 797 kB
 File Modification Date/Time     : 2025:12:10 17:49:00+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -36955,7 +36955,7 @@ File Name                       : 1195_Đuranović Mato Stari mlinovi.jpg
 Directory                       : photo
 File Size                       : 1203 kB
 File Modification Date/Time     : 2025:12:10 19:23:30+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -37247,7 +37247,7 @@ File Name                       : 1196_Ivanović Ljuba Stari Bar.jpg
 Directory                       : photo
 File Size                       : 974 kB
 File Modification Date/Time     : 2025:12:10 18:28:06+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -37535,7 +37535,7 @@ File Name                       : 1197_Jakac Božidar Pogled sa Cetinja na Lovc
 Directory                       : photo
 File Size                       : 507 kB
 File Modification Date/Time     : 2025:12:10 18:27:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -37826,7 +37826,7 @@ File Name                       : 1198_Kovačević Branko Motiv iz Budve.jpg
 Directory                       : photo
 File Size                       : 944 kB
 File Modification Date/Time     : 2025:12:10 19:18:18+01:00
-File Access Date/Time           : 2025:12:16 21:40:02+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -38117,7 +38117,7 @@ File Name                       : 1199_Lubarda Vera Cetinje sa Lovćenom.jpg
 Directory                       : photo
 File Size                       : 796 kB
 File Modification Date/Time     : 2025:12:10 19:23:20+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -38409,7 +38409,7 @@ File Name                       : 1200_Brajović_ Ljubo_ Pejzaž sa Ribnice_ 1
 Directory                       : photo
 File Size                       : 1052 kB
 File Modification Date/Time     : 2025:12:12 21:33:34+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -38565,7 +38565,7 @@ File Name                       : 1201_Ivanović Jovo_Ribarsko selo_1976.jpg
 Directory                       : photo
 File Size                       : 842 kB
 File Modification Date/Time     : 2025:12:12 21:33:50+01:00
-File Access Date/Time           : 2025:12:16 21:40:04+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -38908,7 +38908,7 @@ File Name                       : 1202_Lubarda Peta_Kosmač.jpg
 Directory                       : photo
 File Size                       : 1552 kB
 File Modification Date/Time     : 2025:12:12 21:33:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -39075,7 +39075,7 @@ File Name                       : 1203_Lubarda_Petar_Sa Skadarskog jezera.jpg
 Directory                       : photo
 File Size                       : 734 kB
 File Modification Date/Time     : 2025:12:12 21:33:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -39175,7 +39175,7 @@ File Name                       : 1204_Lubarda_Petar_Titograd.jpg
 Directory                       : photo
 File Size                       : 765 kB
 File Modification Date/Time     : 2025:12:12 21:34:02+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -39276,7 +39276,7 @@ File Name                       : 1205_Raičević Nikica Kamenjar_1995.jpg
 Directory                       : photo
 File Size                       : 705 kB
 File Modification Date/Time     : 2025:12:12 21:34:08+01:00
-File Access Date/Time           : 2025:12:16 21:40:05+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -39618,7 +39618,7 @@ File Name                       : 1206_Vučković Filip Budva.jpg
 Directory                       : photo
 File Size                       : 1085 kB
 File Modification Date/Time     : 2025:12:12 21:34:12+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -39922,7 +39922,7 @@ File Name                       : 1207_Vujošević Nikola_Most na Morači.jpg
 Directory                       : photo
 File Size                       : 1530 kB
 File Modification Date/Time     : 2025:12:12 21:34:20+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -40020,7 +40020,7 @@ File Name                       : 1208_Vujošević Nikola Stara varoš 1951-2
 Directory                       : photo
 File Size                       : 1048 kB
 File Modification Date/Time     : 2025:12:12 21:34:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -40176,7 +40176,7 @@ File Name                       : 1213_Vujović Savo Bez naziva.jpg
 Directory                       : photo
 File Size                       : 997 kB
 File Modification Date/Time     : 2025:12:12 21:36:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -40476,7 +40476,7 @@ File Name                       : 1214_Vujović Savo Perast.jpg
 Directory                       : photo
 File Size                       : 977 kB
 File Modification Date/Time     : 2025:12:12 21:34:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -40775,7 +40775,7 @@ File Name                       : 1215_Vušković Miloš tara varoš 1953.jp
 Directory                       : photo
 File Size                       : 1143 kB
 File Modification Date/Time     : 2025:12:12 21:35:56+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -40946,7 +40946,7 @@ File Name                       : 1250_Lubarda Vera Predio sa Cetinja.jpg
 Directory                       : photo
 File Size                       : 1179 kB
 File Modification Date/Time     : 2025:12:12 21:30:02+01:00
-File Access Date/Time           : 2025:12:16 21:40:08+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -41278,7 +41278,7 @@ File Name                       : 1251_Martinović Petar Risan.jpg
 Directory                       : photo
 File Size                       : 723 kB
 File Modification Date/Time     : 2025:12:12 21:30:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -41567,7 +41567,7 @@ File Name                       : 1252_Milunović Milo Cetinjski krovovi.jpg
 Directory                       : photo
 File Size                       : 959 kB
 File Modification Date/Time     : 2025:12:12 21:32:28+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -41859,7 +41859,7 @@ File Name                       : 1253_Milunović Milo Kuća na Svetom Stefanu
 Directory                       : photo
 File Size                       : 619 kB
 File Modification Date/Time     : 2025:12:12 21:30:38+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -42149,7 +42149,7 @@ File Name                       : 1254_Milunović Milo Sveti Stefan_05.jpg
 Directory                       : photo
 File Size                       : 1156 kB
 File Modification Date/Time     : 2025:12:12 21:30:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -42480,7 +42480,7 @@ File Name                       : 1255_Šotra Milena Medun Marka Miljanova.jpg
 Directory                       : photo
 File Size                       : 1032 kB
 File Modification Date/Time     : 2025:12:12 21:30:54+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -42812,7 +42812,7 @@ File Name                       : 1256_Stanković_Luka Petrovac.jpg
 Directory                       : photo
 File Size                       : 682 kB
 File Modification Date/Time     : 2025:12:12 21:31:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -43103,7 +43103,7 @@ File Name                       : 1257_Teodorović Đurđe Zora nad Bokom.jpg
 Directory                       : photo
 File Size                       : 1105 kB
 File Modification Date/Time     : 2025:12:12 21:31:14+01:00
-File Access Date/Time           : 2025:12:16 21:40:10+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -43435,7 +43435,7 @@ File Name                       : 1258_Živković Milentije Lesendro.jpg
 Directory                       : photo
 File Size                       : 1209 kB
 File Modification Date/Time     : 2025:12:12 21:31:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -43724,7 +43724,7 @@ File Name                       : 1400_Pogled na Prčanj i Dobrotu.jpg
 Directory                       : photo
 File Size                       : 754 kB
 File Modification Date/Time     : 2025:12:15 21:10:00+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -43772,7 +43772,7 @@ File Name                       : 1401_Bar.jpg
 Directory                       : photo
 File Size                       : 982 kB
 File Modification Date/Time     : 2025:12:15 20:11:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -43928,7 +43928,7 @@ File Name                       : 1402_Budva.jpg
 Directory                       : photo
 File Size                       : 800 kB
 File Modification Date/Time     : 2025:12:15 20:13:30+01:00
-File Access Date/Time           : 2025:12:17 10:55:54+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44084,7 +44084,7 @@ File Name                       : 1403_Castel Lastva.jpg
 Directory                       : photo
 File Size                       : 944 kB
 File Modification Date/Time     : 2025:12:15 20:13:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:03+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44242,7 +44242,7 @@ File Name                       : 1404_Herceg Novi.jpg
 Directory                       : photo
 File Size                       : 1014 kB
 File Modification Date/Time     : 2025:12:15 20:37:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44305,7 +44305,7 @@ File Name                       : 1405_Cetinjski manastir.jpg
 Directory                       : photo
 File Size                       : 1157 kB
 File Modification Date/Time     : 2025:12:15 20:35:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44378,7 +44378,7 @@ File Name                       : 1406_Cetinje.jpg
 Directory                       : photo
 File Size                       : 699 kB
 File Modification Date/Time     : 2025:12:15 20:36:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44448,7 +44448,7 @@ File Name                       : 1407_ Boka Kotorska.jpg
 Directory                       : photo
 File Size                       : 1115 kB
 File Modification Date/Time     : 2025:12:15 20:38:46+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44505,7 +44505,7 @@ File Name                       : 1408_Castel Nuovo.jpg
 Directory                       : photo
 File Size                       : 695 kB
 File Modification Date/Time     : 2025:12:15 20:39:06+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44549,7 +44549,7 @@ File Name                       : 1409_Zaliv između Budve i Sv Stefana.jpg
 Directory                       : photo
 File Size                       : 911 kB
 File Modification Date/Time     : 2025:12:15 20:11:18+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44612,7 +44612,7 @@ File Name                       : 1410_Marina u Kotoru.jpg
 Directory                       : photo
 File Size                       : 666 kB
 File Modification Date/Time     : 2025:12:15 20:50:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:51+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44789,7 +44789,7 @@ File Name                       : 1411_Kotor.jpg
 Directory                       : photo
 File Size                       : 1109 kB
 File Modification Date/Time     : 2025:12:15 20:56:40+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44842,7 +44842,7 @@ File Name                       : 1412_Edward_Lear.jpg
 Directory                       : photo
 File Size                       : 303 kB
 File Modification Date/Time     : 2025:12:15 20:59:06+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44888,7 +44888,7 @@ File Name                       : 1413_Anton_Karinger_Blick_auf_den_Skutarisee_1
 Directory                       : photo
 File Size                       : 1308 kB
 File Modification Date/Time     : 2025:12:15 21:03:30+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -44934,7 +44934,7 @@ File Name                       : 1414_Anton_Karinger_-_Črnogorska_pot.jpg
 Directory                       : photo
 File Size                       : 579 kB
 File Modification Date/Time     : 2025:12:15 21:05:52+01:00
-File Access Date/Time           : 2025:12:16 21:40:13+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45020,7 +45020,7 @@ File Name                       : 1415_Pogled na Kotorski zaliv.jpg
 Directory                       : photo
 File Size                       : 886 kB
 File Modification Date/Time     : 2025:12:15 21:05:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45068,7 +45068,7 @@ File Name                       : 1416_Carl_Robert_Kummer.jpg
 Directory                       : photo
 File Size                       : 906 kB
 File Modification Date/Time     : 2025:12:15 21:12:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45115,7 +45115,7 @@ File Name                       : 1417_Michael_Zeno_Diemer_Bucht_von_Cattaro.jpg
 Directory                       : photo
 File Size                       : 921 kB
 File Modification Date/Time     : 2025:12:15 21:14:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45234,7 +45234,7 @@ File Name                       : 1418_Oldřich_Koníček_Boka_Kotorská.jpg
 Directory                       : photo
 File Size                       : 993 kB
 File Modification Date/Time     : 2025:12:15 21:16:02+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45469,7 +45469,7 @@ File Name                       : 1419_Port_de_Cattaro.jpg
 Directory                       : photo
 File Size                       : 381 kB
 File Modification Date/Time     : 2025:12:15 21:19:06+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45515,7 +45515,7 @@ File Name                       : 1420_Vue_de_Perasto_dans_le_golfe_de_Kotor.jpg
 Directory                       : photo
 File Size                       : 589 kB
 File Modification Date/Time     : 2025:12:15 21:18:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45558,7 +45558,7 @@ File Name                       : 1421_Podmornica u Bokokotorskom zalivu u Crnoj
 Directory                       : photo
 File Size                       : 1188 kB
 File Modification Date/Time     : 2025:12:15 21:21:34+01:00
-File Access Date/Time           : 2025:12:16 21:40:20+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45621,7 +45621,7 @@ File Name                       : 1422_Karl Ludwig Prinz_Hafen_von_Virbazar.jpg
 Directory                       : photo
 File Size                       : 1025 kB
 File Modification Date/Time     : 2025:12:15 21:22:34+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45696,7 +45696,7 @@ File Name                       : 1423_Alfred_Zoff_Küste_bei_Herzeg_Novi_1926.
 Directory                       : photo
 File Size                       : 975 kB
 File Modification Date/Time     : 2025:12:15 21:28:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45866,7 +45866,7 @@ File Name                       : 1424_Rach Gustav.jpg
 Directory                       : photo
 File Size                       : 719 kB
 File Modification Date/Time     : 2025:12:15 21:29:14+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45926,7 +45926,7 @@ File Name                       : 1425_Anton Perko, Kotor, 1875.jpg
 Directory                       : photo
 File Size                       : 711 kB
 File Modification Date/Time     : 2025:12:15 21:34:48+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -45989,7 +45989,7 @@ File Name                       : 1426_Herman Corrodi, Jezerski pejzaž sa figu
 Directory                       : photo
 File Size                       : 598 kB
 File Modification Date/Time     : 2025:12:15 22:10:46+01:00
-File Access Date/Time           : 2025:12:16 21:40:24+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46035,7 +46035,7 @@ File Name                       : 1427_Herman Corrodi, Motiv iz Crne Gore .jpg
 Directory                       : photo
 File Size                       : 1278 kB
 File Modification Date/Time     : 2025:12:15 23:06:20+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46081,7 +46081,7 @@ File Name                       : 1428_Edward Lear.jpg
 Directory                       : photo
 File Size                       : 1031 kB
 File Modification Date/Time     : 2025:12:15 23:05:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46145,7 +46145,7 @@ File Name                       : 1429_Edward Lear_Montenegro.jpg
 Directory                       : photo
 File Size                       : 845 kB
 File Modification Date/Time     : 2025:12:15 23:05:42+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46209,7 +46209,7 @@ File Name                       : 1430_Edward Lear.jpg
 Directory                       : photo
 File Size                       : 635 kB
 File Modification Date/Time     : 2025:12:15 23:05:28+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:16 14:31:04+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46273,7 +46273,7 @@ File Name                       : 1501_Ilija Šobajic, Spuška Glavica, crtez�
 Directory                       : photo
 File Size                       : 1026 kB
 File Modification Date/Time     : 2025:12:16 20:14:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46360,7 +46360,7 @@ File Name                       : 1502_Jovan Kukic, Pljevlja, tempera na kartonu
 Directory                       : photo
 File Size                       : 750 kB
 File Modification Date/Time     : 2025:12:16 20:14:52+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46447,7 +46447,7 @@ File Name                       : 1503_Luka Stankovic, Džamija sa sahat kulom,
 Directory                       : photo
 File Size                       : 889 kB
 File Modification Date/Time     : 2025:12:16 20:15:22+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46540,7 +46540,7 @@ File Name                       : 1504_Savo Vujovic, Prcanj, ulje na platnu, 50x
 Directory                       : photo
 File Size                       : 1421 kB
 File Modification Date/Time     : 2025:12:16 20:15:50+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46627,7 +46627,7 @@ File Name                       : 1505_Vehbija Vehbo Bambur slika, gvaš, tempe
 Directory                       : photo
 File Size                       : 612 kB
 File Modification Date/Time     : 2025:12:16 20:16:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46715,7 +46715,7 @@ File Name                       : 1506_Vuko Radovic, Platije, ulje na lesonitu, 
 Directory                       : photo
 File Size                       : 1430 kB
 File Modification Date/Time     : 2025:12:16 20:16:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -46802,7 +46802,7 @@ File Name                       : 1511_Dujšin Ribar Cata_Budva u oluji_1957.jp
 Directory                       : photo
 File Size                       : 1015 kB
 File Modification Date/Time     : 2025:12:16 21:05:48+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -47066,7 +47066,7 @@ File Name                       : 1512_Dujšin Ribar Cata_Dobrota_1975.jpg
 Directory                       : photo
 File Size                       : 847 kB
 File Modification Date/Time     : 2025:12:16 21:05:54+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -47330,7 +47330,7 @@ File Name                       : 1513_Dujšin Ribar Cata_Impresija iz Boke_197
 Directory                       : photo
 File Size                       : 893 kB
 File Modification Date/Time     : 2025:12:16 21:05:58+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -47594,7 +47594,7 @@ File Name                       : 1514_Dujšin Ribar Cata_Iz Kotora 1956.jpg
 Directory                       : photo
 File Size                       : 1217 kB
 File Modification Date/Time     : 2025:12:16 21:06:04+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -47858,7 +47858,7 @@ File Name                       : 1515_Dujšin Ribar Cata_Iz Perasta_1964.jpg
 Directory                       : photo
 File Size                       : 896 kB
 File Modification Date/Time     : 2025:12:16 21:06:14+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -48122,7 +48122,7 @@ File Name                       : 1516_Dujšin Ribar Cata_Perast_1952.jpg
 Directory                       : photo
 File Size                       : 859 kB
 File Modification Date/Time     : 2025:12:16 21:06:20+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -48388,7 +48388,7 @@ File Name                       : 1517_Dujšin Ribar Cata_Perast_1955.jpg
 Directory                       : photo
 File Size                       : 1080 kB
 File Modification Date/Time     : 2025:12:16 21:06:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -48652,7 +48652,7 @@ File Name                       : 1518_Dujšin Ribar Cata_Perast_1956.jpg
 Directory                       : photo
 File Size                       : 974 kB
 File Modification Date/Time     : 2025:12:16 21:06:30+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -48916,7 +48916,7 @@ File Name                       : 1519_Dujšin Ribar Cata_Perast_1961.jpg
 Directory                       : photo
 File Size                       : 1062 kB
 File Modification Date/Time     : 2025:12:16 21:06:36+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -49180,7 +49180,7 @@ File Name                       : 1520_Dujšin Ribar Cata_Stari Bar_1968.jpg
 Directory                       : photo
 File Size                       : 852 kB
 File Modification Date/Time     : 2025:12:16 21:06:44+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -49445,7 +49445,7 @@ File Name                       : 1521_Dujšin Ribar Cata_Sv Matija_1957.jpg
 Directory                       : photo
 File Size                       : 792 kB
 File Modification Date/Time     : 2025:12:16 21:06:48+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -49709,7 +49709,7 @@ File Name                       : 1531_ L Kuba Manastir Moraca.JPG
 Directory                       : photo
 File Size                       : 548 kB
 File Modification Date/Time     : 2025:12:16 21:44:54+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -49890,7 +49890,7 @@ File Name                       : 1532_ L Kuba Manastir Moraca.JPG
 Directory                       : photo
 File Size                       : 604 kB
 File Modification Date/Time     : 2025:12:16 22:08:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -49964,7 +49964,7 @@ File Name                       : 1533_L_Kuba _Duklja.JPG
 Directory                       : photo
 File Size                       : 746 kB
 File Modification Date/Time     : 2025:12:16 22:08:16+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50038,7 +50038,7 @@ File Name                       : 1534_L_Kuba_Uz Moraču.JPG
 Directory                       : photo
 File Size                       : 643 kB
 File Modification Date/Time     : 2025:12:16 22:07:48+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50112,7 +50112,7 @@ File Name                       : 1535_L_Kuba_Na Morači.JPG
 Directory                       : photo
 File Size                       : 729 kB
 File Modification Date/Time     : 2025:12:16 21:50:24+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50165,7 +50165,7 @@ File Name                       : 1536_L Kuba Motiv iz Bara.JPG
 Directory                       : photo
 File Size                       : 500 kB
 File Modification Date/Time     : 2025:12:16 21:54:28+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50346,7 +50346,7 @@ File Name                       : 1539_Shojat Motiv iz Boke.JPG
 Directory                       : photo
 File Size                       : 1127 kB
 File Modification Date/Time     : 2025:12:16 22:10:14+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50489,7 +50489,7 @@ File Name                       : 1540_Sotra M Iz Herceg Novog.jpg
 Directory                       : photo
 File Size                       : 203 kB
 File Modification Date/Time     : 2025:12:16 22:12:26+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50586,7 +50586,7 @@ File Name                       : 1541_M_Sotra M.JPG
 Directory                       : photo
 File Size                       : 1335 kB
 File Modification Date/Time     : 2025:12:16 22:13:32+01:00
-File Access Date/Time           : 2025:12:17 10:49:24+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50733,7 +50733,7 @@ File Name                       : 1543_Ahmed Karić Ulcinj.JPG
 Directory                       : photo
 File Size                       : 379 kB
 File Modification Date/Time     : 2025:12:16 22:16:36+01:00
-File Access Date/Time           : 2025:12:17 10:49:24+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50800,7 +50800,7 @@ File Name                       : 1544_Kulenovic H Novi.JPG
 Directory                       : photo
 File Size                       : 710 kB
 File Modification Date/Time     : 2025:12:16 22:18:00+01:00
-File Access Date/Time           : 2025:12:17 10:55:55+01:00
+File Access Date/Time           : 2025:12:19 20:03:52+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50875,7 +50875,7 @@ File Name                       : 1546_Ber Herceg Novi.jpg
 Directory                       : photo
 File Size                       : 1040 kB
 File Modification Date/Time     : 2025:12:16 22:21:48+01:00
-File Access Date/Time           : 2025:12:17 10:49:24+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
@@ -50923,7 +50923,7 @@ File Name                       : 1547_Leo Ardnt.JPG
 Directory                       : photo
 File Size                       : 380 kB
 File Modification Date/Time     : 2025:12:16 22:24:10+01:00
-File Access Date/Time           : 2025:12:17 10:49:57+01:00
+File Access Date/Time           : 2025:12:17 10:56:09+01:00
 File Inode Change Date/Time     : 2025:12:17 10:48:38+01:00
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG

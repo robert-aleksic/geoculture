@@ -227,4 +227,4 @@ cp "photo/1536_L Kuba Motiv iz Bara.JPG" ../../images/1536.jpg
 cp "photo/1539_Shojat Motiv iz Boke.JPG" ../../images/1539.jpg
 cp "photo/1540_Sotra M Iz Herceg Novog.jpg" ../../images/1540.jpg
 cp "photo/1544_Kulenovic H Novi.JPG" ../../images/1544.jpg
-exiftool photo/*.* >exif.txt
+./exif.sh
