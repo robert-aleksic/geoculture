@@ -21,26 +21,26 @@
       integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
       crossorigin=""></script>-->
 
-    <link rel="stylesheet" href="css/markercluster.css"/>
-    <link rel="stylesheet" href="css/markercluster.default.css"/>
-    <script src="js/markercluster.js"></script>
-
     <!--<link rel="stylesheet" href="css/coord-projection.css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.6.0/proj4.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4leaflet/1.0.2/proj4leaflet.min.js"></script>
     <script src="js/coord-projection.js"></script>-->
 
-    <link rel="stylesheet" href="css/easy-button.css" />
+    <link rel="stylesheet" href="css/easy-button.css"/>
     <script src="js/easy-button.js"></script>
 
-    <link rel="stylesheet" href="css/fullscreen.css" />
-    <script src="js/fullscreen.js"></script>
-
-    <link rel="stylesheet" href="css/locate.min.css" />
+    <link rel="stylesheet" href="css/locate.min.css"/>
     <script src="js/locate.min.js"></script>
 
-    <link rel="stylesheet" href="css/sidepanel.css" />
+    <link rel="stylesheet" href="css/fullscreen.css"/>
+    <script src="js/fullscreen.js"></script>
+
+    <link rel="stylesheet" href="css/sidepanel.css"/>
     <script src="js/sidepanel.js"></script>
+
+    <link rel="stylesheet" href="css/markercluster.css"/>
+    <link rel="stylesheet" href="css/markercluster.default.css"/>
+    <script src="js/markercluster.js"></script>
 
     <link rel="stylesheet" href="css/spotlight.min.css">
     <script src="js/spotlight.min.js"></script>
@@ -64,74 +64,112 @@
 </head>
 <body>
 
-<div id="map" style="width: 100%; height: 100%;">
-
-  <div id="attributes" class="sidepanel" aria-label="side panel" aria-hidden="false">
-    <div class="sidepanel-inner-wrapper">
-      <nav class="sidepanel-tabs-wrapper" aria-label="sidepanel tab navigation">
-        <ul class="sidepanel-tabs">
-          <li class="sidepanel-tab">
-            <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-1">
-              Artwork
-            </a>
-          </li>
-          <li class="sidepanel-tab">
-            <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-2">
-              Author
-            </a>
-          </li>
-          <!-- [...] -->
-        </ul>
-      </nav>
-      <div class="sidepanel-content-wrapper">
-        <div class="sidepanel-content">
-          <div class="sidepanel-tab-content" data-tab-content="tab-1">
-            <p></p>
+  <div id="map" style="width: 100%; height: 100%;">
+    <div id="attributes" class="sidepanel" aria-label="side panel" aria-hidden="false">
+      <div class="sidepanel-inner-wrapper">
+        <nav class="sidepanel-tabs-wrapper" aria-label="sidepanel tab navigation">
+          <ul class="sidepanel-tabs">
+            <li class="sidepanel-tab">
+              <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-1"> Artwork </a>
+            </li>
+            <li class="sidepanel-tab">
+              <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-2"> Author </a>
+            </li>
+          </ul>
+        </nav>
+        <div class="sidepanel-content-wrapper">
+          <div class="sidepanel-content">
+            <div class="sidepanel-tab-content" data-tab-content="tab-1"> </div>
+            <div class="sidepanel-tab-content" data-tab-content="tab-2"> </div>
           </div>
-          <div class="sidepanel-tab-content" data-tab-content="tab-2">
-            <p></p>
-          </div>
-          <!-- [...] -->
         </div>
       </div>
-    </div>
-    <div class="sidepanel-toggle-container">
-      <button class="sidepanel-toggle-button" type="button" aria-label="toggle side panel"></button>
+      <div class="sidepanel-toggle-container">
+        <button class="sidepanel-toggle-button" type="button" aria-label="toggle side panel"></button>
+      </div>
     </div>
   </div>
 
-</div>
-
 <script>
-  var debug = true;
+  var   debug  = true;
   const panelw = 400;
-
   const map = L.map('map', {zoomControl: false, zoomSnap: 0.5});
+
 
   const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
+    opacity: 0.7,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
-  // utility
-  function openpanel(){
-    attrpanel.doOpen (map);
-  };
+  // add coordinates control
+  // coordP = L.control.coordProjection().addTo(map);
 
-  function closepanel(){
-    attrpanel.doClose (map);
-  };
+  // add scale control
+  var scaleControl = new L.Control.Scale({
+            maxwidth: 300,
+            position: 'bottomleft',
+            metric: true,
+            imperial: false,
+            updateWhenIdle: true
+        });
+  scaleControl.addTo(map);
 
-  function featureclick (e){
-    // populate side panel
-    //e.target.feature.properties.sel = "*";
-    let pr = e.target.feature.properties;
+  // add zoom bar
+  var zoomBar = L.easyBar([
+    L.easyButton('<b>+</b>', function(control, map){map.setZoom(map.getZoom()+1)}),
+    L.easyButton('<img src="css/house.svg" width="90%" height="90%">',
+      function(control, map){map.fitBounds(allbounds)}),
+    L.easyButton('<b>-</b>', function(control, map){map.setZoom(map.getZoom()-1)})
+  ]);
+  zoomBar.addTo(map);
+
+  // add filter buttons
+  var filterbar = L.easyBar([
+    L.easyButton ('<img src="css/filter.svg" width="90%" height="90%">',
+      function (control, map) {{findbyfnln(curfn,curln)}}),
+    L.easyButton ('<img src="css/filter-circle-xmark.svg" width="90%" height="90%">',
+      function (control, map) {findbyfnln();curfn='';info.update()})
+  ]);
+  filterbar.addTo(map);
+
+  // add locate
+  L.control.locate().addTo(map);
+
+  // add fullscreen
+  map.addControl(
+    new L.Control.FullScreen({
+      position: 'topleft',
+      title: 'Fullscreen',
+      titleCancel: 'Exit Fullscreen'
+    })
+  );
+
+  // side panel
+  var attrpanel = L.control.sidepanel('attributes', {
+    panelPosition: 'right',
+    hasTabs: true,
+    tabsPosition: 'top',
+    pushControls: true,
+    darkMode: true,
+    startTab: 'tab-1'
+  })
+  attrpanel.addTo(map);
+
+  map.on ('click', function(e) {
+     attrpanel.doClose (map);
+  });
+
+
+  // landscape paintings layer
+  function populatepanel (feature) {
+    pr = feature.properties;
 
     let t1 = document.querySelectorAll("div.sidepanel-tab-content")[0];
     t1.textContent="";
 
     let t1h1 = document.createElement('h1');
-    t1h1.innerText = pr.sel+pr.name;
+    t1h1.innerText = pr.name;
     t1h1.setAttribute ('style',"display: block; margin: 0; margin-bottom: 8px; line-height:1.2");
     t1.appendChild(t1h1);
 
@@ -207,108 +245,92 @@
       t2p[i] = document.createElement('p');
       t2p[i].innerText = pr.bio[i];
       t2.appendChild (t2p[i])
-    };
+    }
+  }
 
-    openpanel();
-    markers.redraw();
+  function featureclick (e){
+    curfn = e.target.feature.properties.fn;
+    curln = e.target.feature.properties.ln;
+
+    //filter.removeFrom(map);
+    //filter = L.easyButton ('x', function (control,map) {findbyfnln()});
+    //filter = L.easyButton ('<b>'+fn+' '+ln+'</b>', function (control, map) {findbyfnln(fn,ln)});
+    //filter.addTo (map);
+
+    populatepanel (e.target.feature);
+    attrpanel.doOpen (map);
     disableEventPropagation (e.target)
-
   };
-
-  // points & clusters
-  function style_poi (props) {
-    return {
-    radius: 10,
-    fillColor: ((props.sel=="*") ? "#000000" : "#ff7800"),
-    color: "#aaaaaa",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 0.7}
-  };
-
   function highlightFeature(e) {
       info.update(e.target.feature.properties);
   };
-
   function resetHighlight(e) {
       info.update();
   };
-
-  function onEachFeature(feature, layer) {
+  function onEachFeature (feature, layer) {
     layer.on({
-        mouseover: highlightFeature,
-        mouseout: resetHighlight,
-        click: featureclick,
-        touchstart: featureclick
+      mouseover  : highlightFeature,
+      mouseout   : resetHighlight,
+      click      : featureclick,
+      touchstart : featureclick
     });
   };
-  poi = L.geoJson(gjson_poi, {
 
+  function style_poi (props,c) {
+    let orange = "#ff8000";
+    let gray   = "#aaaaaa";
+    let red    = "#990000";
+    let white  = "#ffffff";
+    let black  = "#000000";
+
+    let s = {
+      radius: 10,
+      weight: 2,
+      opacity: 1,
+      fillOpacity: 0.8};
+
+    switch (c) {
+      case 0  : s.fillColor = orange; s.color = gray; break;
+      case 1  : s.fillColor = gray;   s.color = gray; break;
+      default : s.fillColor = red;    s.color = red
+    };
+    return s
+  };
+
+  function selectedcount () {
+    let num = 0;
+
+     poi_gjson.features.forEach (function (el,i) {
+      if (el.properties.sel==="*") {num += 1};
+     });
+
+    return num
+  }
+
+
+  var poi_all = L.geoJson(poi_gjson, {
      pointToLayer: function (feature, latlng) {
-       return L.circleMarker(latlng, style_poi (feature.properties))
+       return L.circleMarker(latlng, style_poi (feature.properties,0))
      },
      onEachFeature: onEachFeature
   });
 
-  var markers = L.markerClusterGroup({maxClusterRadius:80, disableClusteringAtZoom:17,
+  var allbounds = poi_all.getBounds();
+  var total     = poi_gjson.features.length;
+  var selected  = selectedcount (poi_gjson.features);
+
+  var poi_sel, poi_notsel;
+  var selmarkers, selbounds;
+  var curfn = '';
+  var curln = '';
+
+  var allmarkers = L.markerClusterGroup({maxClusterRadius:80, disableClusteringAtZoom:17,
                                       showCoverageOnHover: false});
-  markers.addLayer(poi);
-  map.addLayer(markers);
 
-  map.fitBounds(poi.getBounds());
+  allmarkers.addLayer(poi_all);
+  map.addLayer(allmarkers);
 
-  // add coordinates control
-  // coordP = L.control.coordProjection().addTo(map);
-
-  // add scale control
-  var scaleControl = new L.Control.Scale({
-            maxwidth: 300,
-            position: 'bottomleft',
-            metric: true,
-            imperial: false,
-            updateWhenIdle: true
-        });
-  scaleControl.addTo(map);
-
-  // add zoom bar
-  var zoomBar = L.easyBar([
-    L.easyButton('<b>+</b>', function(control, map){map.setZoom(map.getZoom()+1);}),
-    L.easyButton('<img src="css/house.svg" width="90%" height="90%">',
-      function(control, map){map.fitBounds(poi.getBounds());}),
-    L.easyButton('<b>-</b>', function(control, map){map.setZoom(map.getZoom()-1);})
-  ]);
-  zoomBar.addTo(map);
-
-  // add locate
-  L.control.locate().addTo(map);
-
-  // add fullscreen
-  map.addControl(
-    new L.Control.FullScreen({
-      position: 'topleft',
-      title: 'Fullscreen',
-      titleCancel: 'Exit Fullscreen'
-    })
-  );
-
-
-  // side panel
-  var attrpanel = L.control.sidepanel('attributes', {
-    panelPosition: 'right',
-    hasTabs: true,
-    tabsPosition: 'top',
-    pushControls: true,
-    darkMode: true,
-    startTab: 'tab-1'
-  })
-  attrpanel.addTo(map);
-
-  map.on ('click', function(e) {
-     closepanel()
-  });
-
-
-  // info
+ // info after poi to use global vars total and selected;
   var info = L.control({position : 'bottomleft'});
 
   info.onAdd = function (map) {
@@ -318,19 +340,92 @@
   };
 
   info.update = function (props) {
-      this._div.innerHTML = (!props ?
-          'Hover over a point' :
-            '<div><center>'+
-            '<p style="margin-top: 0px;margin-bottom: 0px">'+
-            '<b>'+props.name+'</b> <small>\/'+props.id+'\/</small></p>'+
-            '<p style="margin-top: 0px;margin-bottom: 0px">' + props.fn+' '+ props.ln +'</p>'+
-            //'<small style="margin-top: 0px;margin-bottom: 0px">' + props.tags +'</small>'+
-            //'<img src="' + props.img +'" width="100px">'+
-          '</center></div>'
-      );
+    this._div.innerHTML =
+      '<div><center>'+
+      (!props ?
+        ((curfn==='') ?
+          '<p>Select point to find all author artworks</p>' :
+          '<p>Find '+curfn+' '+curln+'</p>') +
+        '<small>\/features: '+ total + ((selected==0) ? '' : ', '+curfn+' '+curln+': '+selected) +'\/</small>'
+      :
+        '<p><b>'+props.name+'</b> <small>\/'+props.id+'\/</small></p>'+
+        '<p>' + props.fn+' '+ props.ln +'</p>'
+        //'<img src="' + props.img +'" width="100px">'
+     )+'</center></div>';
+  };
+  if (debug) {info.addTo(map)};
+
+
+
+  function refreshlayers () {
+
+    function selFilter(feature)    {if (feature.properties.sel === "*") return true};
+    function notselFilter(feature) {if (feature.properties.sel !== "*") return true};
+
+    selected = selectedcount();
+    map.eachLayer(function (layer) {if (layer!=tiles) {map.removeLayer(layer)}});
+    if (selected===0) {map.addLayer(allmarkers)}
+    else {
+
+      poi_sel = L.geoJson(poi_gjson, {
+        pointToLayer: function (feature, latlng)
+          {return L.circleMarker(latlng, style_poi (feature.properties,2))},
+        filter : selFilter,
+        onEachFeature: onEachFeature
+      });
+      selbounds = poi_sel.getBounds();
+
+      poi_notsel = L.geoJson(poi_gjson, {
+        pointToLayer: function (feature, latlng)
+          {return L.circleMarker(latlng, style_poi (feature.properties,1))},
+        filter : notselFilter,
+        onEachFeature: onEachFeature
+      });
+
+      selmarkers = L.markerClusterGroup({maxClusterRadius:80, disableClusteringAtZoom:17,
+                                         showCoverageOnHover: false});
+      if (true) {//(selected > total/2) {
+        map.addLayer(poi_notsel);
+        selmarkers.addLayer (poi_sel);
+        map.addLayer(selmarkers)
+      } else {
+        selmarkers.addLayer (poi_notsel);
+        map.addLayer (selmarkers);
+        map.addLayer (poi_sel)
+      }
+    };
+    info.update()
   };
 
-  if (debug) {info.addTo(map)}
+
+
+  function randomselection () {
+    poi_gjson.features.forEach (function (el,i) {
+      el.properties.sel = ((Math.random() < 0.3) ? "*" :"")
+    });
+    selected = selectedcount()
+  };
+
+  function clearselection () {
+    poi_gjson.features.forEach (function (el,i) {el.properties.sel = ""});
+    selected = 0
+  };
+
+  function setselection (f) {
+    clearselection();
+    poi_gjson.features.forEach (function (el,i) {
+      el.properties.sel = (f(el.properties) ? "*" : "")
+    });
+    selected = selectedcount()
+  };
+
+  function findbyfnln (fn,ln) {
+    function f (prop) {return (prop.fn === fn) && (prop.ln === ln)}
+    if (!fn || !ln) {clearselection(); refreshlayers(); map.fitBounds (allbounds)}
+    else            {setselection(f);  refreshlayers(); map.fitBounds (selbounds)}
+  };
+
+  map.fitBounds(allbounds)
 
 </script>
 </body>

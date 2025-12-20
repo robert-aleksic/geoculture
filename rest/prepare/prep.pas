@@ -331,7 +331,7 @@ begin
   assign (f,'../../poi.js');
   rewrite (f);
 
-  writeln (f,'var gjson_poi = {');
+  writeln (f,'var poi_gjson = {');
   writeln (f,'"type": "FeatureCollection",');
   writeln (f,'"name": "data",');
   writeln (f,'"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },');

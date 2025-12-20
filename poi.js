@@ -1,4 +1,4 @@
-var gjson_poi = {
+var poi_gjson = {
 "type": "FeatureCollection",
 "name": "data",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
