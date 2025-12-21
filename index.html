@@ -457,8 +457,8 @@
 
   function findbyfnln (fn,ln) {
     function f (prop) {return (prop.fn === fn) && (prop.ln === ln)}
-    if (!fn || !ln) {clearselection(); refreshlayers(); map.fitBounds (allbounds)}
-    else            {setselection(f);  refreshlayers(); map.fitBounds (selbounds)}
+    if (!fn || !ln) {clearselection(); refreshlayers()/*; map.fitBounds (allbounds)*/}
+    else            {setselection(f);  refreshlayers()/*; map.fitBounds (selbounds)*/}
   };
 
   map.fitBounds(allbounds)
