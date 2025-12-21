@@ -70,10 +70,10 @@
         <nav class="sidepanel-tabs-wrapper" aria-label="sidepanel tab navigation">
           <ul class="sidepanel-tabs">
             <li class="sidepanel-tab">
-              <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-1"> Artwork </a>
+              <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-1"> Dijelo </a>
             </li>
             <li class="sidepanel-tab">
-              <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-2"> Author </a>
+              <a href="#" class="sidebar-tab-link" role="tab" data-tab-link="tab-2"> Autor </a>
             </li>
           </ul>
         </nav>
@@ -94,6 +94,7 @@
   var   debug  = true;
   const panelw = 400;
   const map = L.map('map', {zoomControl: false, zoomSnap: 0.5});
+  map.setMaxZoom (17.5);
 
 
   const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -117,19 +118,19 @@
 
   // add zoom bar
   var zoomBar = L.easyBar([
-    L.easyButton('<b>+</b>', function(control, map){map.setZoom(map.getZoom()+1)}),
+    L.easyButton('<b>+</b>', function(control, map){map.setZoom(map.getZoom()+0.5)}),
     L.easyButton('<img src="css/house.svg" width="90%" height="90%">',
       function(control, map){map.fitBounds(allbounds)}),
-    L.easyButton('<b>-</b>', function(control, map){map.setZoom(map.getZoom()-1)})
+    L.easyButton('<b>-</b>', function(control, map){map.setZoom(map.getZoom()-0.5)})
   ]);
   zoomBar.addTo(map);
 
   // add filter buttons
   var filterbar = L.easyBar([
     L.easyButton ('<img src="css/filter.svg" width="90%" height="90%">',
-      function (control, map) {if (lastpr) {findbyfnln(curfn,curln);populatepanel(lastpr)}}),
-    L.easyButton ('<img src="css/filter-circle-xmark.svg" width="90%" height="90%">',
-      function (control, map) {findbyfnln();curfn='';info.update()})
+      function (control, map) {if (lastpr) {findbyfnln(curfn,curln);populatepanel(lastpr)}},'radovi izabranog autora'),
+    L.easyButton ('<img src="css/filter-circle-xmark.svg" width="100%" height="100%">',
+      function (control, map) {findbyfnln();/*curfn='';info.update()*/;populatepanel(lastpr)},'radovi svih autora')
   ]);
   filterbar.addTo(map);
 
@@ -140,8 +141,8 @@
   map.addControl(
     new L.Control.FullScreen({
       position: 'topleft',
-      title: 'Fullscreen',
-      titleCancel: 'Exit Fullscreen'
+      title: 'povećaj na ceo ekran',
+      titleCancel: 'smanji na prozor brausera'
     })
   );
 
@@ -374,9 +375,9 @@
       '<div><center>'+
       (!props ?
         ((curfn==='') ?
-          '<p>Select point to find all author artworks</p>' :
-          '<p>Find '+curfn+' '+curln+'</p>') +
-        '<small>\/features: '+ total + ((selected==0) ? '' : ', '+curfn+' '+curln+': '+selected) +'\/</small>'
+          '<p>izabrani autor bira se odabirom tačke</p>' :
+          '<p>izabrani autor '+curfn+' '+curln+'</p>') +
+        '<small>\/radovi svih autora: '+ total + ((selected==0) ? '' : ', '+curfn+' '+curln+': '+selected) +'\/</small>'
       :
         '<p><b>'+props.name+'</b> <small>\/'+props.id+'\/</small></p>'+
         '<p>' + props.fn+' '+ props.ln +'</p>'

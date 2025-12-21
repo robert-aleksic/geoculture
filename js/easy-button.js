@@ -112,7 +112,7 @@ L.Control.EasyButton = L.Control.extend({
                                 // }
 
     leafletClasses:   true,     // use leaflet styles for the button
-    tagName:          'button',
+    tagName:          'button'
   },
 
 
