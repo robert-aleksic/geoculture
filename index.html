@@ -127,7 +127,7 @@
   // add filter buttons
   var filterbar = L.easyBar([
     L.easyButton ('<img src="css/filter.svg" width="90%" height="90%">',
-      function (control, map) {{findbyfnln(curfn,curln)}}),
+      function (control, map) {if (lastpr) {findbyfnln(curfn,curln);populatepanel(lastpr)}}),
     L.easyButton ('<img src="css/filter-circle-xmark.svg" width="90%" height="90%">',
       function (control, map) {findbyfnln();curfn='';info.update()})
   ]);
@@ -162,8 +162,7 @@
 
 
   // landscape paintings layer
-  function populatepanel (feature) {
-    pr = feature.properties;
+  function populatepanel (pr) {
 
     let t1 = document.querySelectorAll("div.sidepanel-tab-content")[0];
     t1.textContent="";
@@ -192,14 +191,45 @@
 
     let t1g = document.createElement ('div');
     t1g.setAttribute ('class','spotlight');
+    t1g.setAttribute ('data-animation','fade');
     t1g.setAttribute ('data-src',pr.img);
+    t1g.setAttribute ('data-description',pr.name+
+      ((pr.year!="") ? ", "+pr.year : "")+
+      ((pr.teh!="") ? ", "+pr.teh : "") +
+      ((pr.format!="") ? ", "+pr.format : "")+
+      ((pr.vlas!="") ? ", "+pr.vlas : "")
+  );
 
       let t1i = document.createElement ('img');
       t1i.setAttribute ('src',pr.img);
       t1i.setAttribute ('style',"max-width: 100%; margin-top: 2px; cursor: pointer");
       t1g.appendChild(t1i);
 
+      t1a=[];
+      let t1temp = document.createElement ('div');
+      t1temp.setAttribute ('hidden','true');
+      for (let i=0; i<sel.length; i++) {
+        let tpr = poi_gjson.features[sel[i]].properties;
+        if (pr.img != tpr.img) {
+          t1a[i] = document.createElement ('div');
+          t1a[i].setAttribute ('class','spotlight');
+          t1a[i].setAttribute ('data-animation','fade');
+          t1a[i].setAttribute ('data-src',tpr.img);
+          t1a[i].setAttribute ('data-description',tpr.name+
+            ((tpr.year!="") ? ", "+tpr.year : "")+
+            ((tpr.teh!="") ? ", "+tpr.teh : "") +
+            ((tpr.format!="") ? ", "+tpr.format : "")+
+            ((tpr.vlas!="") ? ", "+tpr.vlas : "")
+          );
+          t1temp.appendChild (t1a[i])
+        }
+
+      t1g.appendChild(t1temp);
+      };
+
     t1.appendChild(t1g);
+
+    //t1.appendChild (t1temp);
 
     if (pr.phcredit) {
       let t1pc = document.createElement('small');
@@ -249,17 +279,15 @@
   }
 
   function featureclick (e){
-    curfn = e.target.feature.properties.fn;
-    curln = e.target.feature.properties.ln;
+    lastpr = e.target.feature.properties;
+    curfn  = lastpr.fn;
+    curln  = lastpr.ln;
 
-    //filter.removeFrom(map);
-    //filter = L.easyButton ('x', function (control,map) {findbyfnln()});
-    //filter = L.easyButton ('<b>'+fn+' '+ln+'</b>', function (control, map) {findbyfnln(fn,ln)});
-    //filter.addTo (map);
-
-    populatepanel (e.target.feature);
+    populatepanel (lastpr);
     attrpanel.doOpen (map);
-    disableEventPropagation (e.target)
+    //console.log(e);
+    L.DomEvent.stopPropagation(e);
+    //e.originalEvent.preventDefault(); //disableEventPropagation (e.target)
   };
   function highlightFeature(e) {
       info.update(e.target.feature.properties);
@@ -318,9 +346,11 @@
   var allbounds = poi_all.getBounds();
   var total     = poi_gjson.features.length;
   var selected  = selectedcount (poi_gjson.features);
+  var sel       = [];
 
   var poi_sel, poi_notsel;
   var selmarkers, selbounds;
+  var lastpr;
   var curfn = '';
   var curln = '';
 
@@ -400,23 +430,28 @@
 
 
   function randomselection () {
+    sel=[];
     poi_gjson.features.forEach (function (el,i) {
-      el.properties.sel = ((Math.random() < 0.3) ? "*" :"")
+      el.properties.sel = ((Math.random() < 0.3) ? "*" :"");
+      if (el.properties.sel === "*") {sel.push(i)}
     });
     selected = selectedcount()
   };
 
   function clearselection () {
+    sel=[];
     poi_gjson.features.forEach (function (el,i) {el.properties.sel = ""});
-    selected = 0
+    selected = 0;
+    sel = [];
   };
 
   function setselection (f) {
-    clearselection();
+    sel=[];
     poi_gjson.features.forEach (function (el,i) {
-      el.properties.sel = (f(el.properties) ? "*" : "")
+      el.properties.sel = (f(el.properties) ? "*" : "");
+      if (el.properties.sel === "*") {sel.push(i)}
     });
-    selected = selectedcount()
+    selected = sel.length
   };
 
   function findbyfnln (fn,ln) {
