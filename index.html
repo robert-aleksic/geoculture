@@ -198,36 +198,36 @@
       ((pr.teh!="") ? ", "+pr.teh : "") +
       ((pr.format!="") ? ", "+pr.format : "")+
       ((pr.vlas!="") ? ", "+pr.vlas : "")
-  );
+    );
 
       let t1i = document.createElement ('img');
       t1i.setAttribute ('src',pr.img);
       t1i.setAttribute ('style',"max-width: 100%; margin-top: 2px; cursor: pointer");
       t1g.appendChild(t1i);
 
-      t1a=[];
-      let t1temp = document.createElement ('div');
-      t1temp.setAttribute ('hidden','true');
-      for (let i=0; i<sel.length; i++) {
-        let tpr = poi_gjson.features[sel[i]].properties;
-        if (pr.img != tpr.img) {
-          t1a[i] = document.createElement ('div');
-          t1a[i].setAttribute ('class','spotlight');
-          t1a[i].setAttribute ('data-animation','fade');
-          t1a[i].setAttribute ('data-src',tpr.img);
-          t1a[i].setAttribute ('data-description',tpr.name+
-            ((tpr.year!="") ? ", "+tpr.year : "")+
-            ((tpr.teh!="") ? ", "+tpr.teh : "") +
-            ((tpr.format!="") ? ", "+tpr.format : "")+
-            ((tpr.vlas!="") ? ", "+tpr.vlas : "")
-          );
-          t1temp.appendChild (t1a[i])
-        }
-
-      t1g.appendChild(t1temp);
-      };
-
-    t1.appendChild(t1g);
+      if (pr.sel==='*'){
+        t1a=[];
+        let t1temp = document.createElement ('div');
+        t1temp.setAttribute ('hidden','true');
+        for (let i=0; i<sel.length; i++) {
+          let tpr = poi_gjson.features[sel[i]].properties;
+          if (pr.img != tpr.img) {
+            t1a[i] = document.createElement ('div');
+            t1a[i].setAttribute ('class','spotlight');
+            t1a[i].setAttribute ('data-animation','fade');
+            t1a[i].setAttribute ('data-src',tpr.img);
+            t1a[i].setAttribute ('data-description',tpr.name+
+              ((tpr.year!="") ? ", "+tpr.year : "")+
+              ((tpr.teh!="") ? ", "+tpr.teh : "") +
+              ((tpr.format!="") ? ", "+tpr.format : "")+
+              ((tpr.vlas!="") ? ", "+tpr.vlas : "")
+            );
+            t1temp.appendChild (t1a[i])
+          }
+        t1g.appendChild(t1temp);
+        };
+      }
+      t1.appendChild(t1g);
 
     //t1.appendChild (t1temp);
 
