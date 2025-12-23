@@ -129,7 +129,7 @@ var
                     p := pos (':',s);
                     val[t] := copy (s,p+2,length(s)-p-1);
                     if t=1 then fn := copy (val[1],1,4);
-                    //writeln (fn,' ',t, ' ',val[t])
+                    writeln (fn,' ',t, ' ',val[t])
                   end
            end;
            close (f)
@@ -272,44 +272,46 @@ begin
     csvget (cf);
     with cf.rec do
     begin
-      if (col[4]<>'') and (col[5]<>'')
+      if col[1]<>'' // no coord
       then begin
              with point[0] do
              begin
-               id   := col[5];
-               name := col[6];
-               fn   := col[7];
-               ln   := col[8];
-               year := col[9];
+               id   := col[2];
+               imgf := imgfile (id);
+
+               name := col[3];
+               fn   := col[4];
+               ln   := col[5];
+               year := col[6];
                apos := authorfind (fn,ln);
                era  := author[apos].birth;
                bio  := author[apos].txt;
 
-               teh    := col[10];
-               format := col[11];
-               tags   := sanitized(col[17]);
+               teh    := col[7];
+               format := col[8];
+               tags   := sanitized(col[14]);
 
-               vlas     := sanitized(col[12]);
-               vlink    := sanitized(col[13]);
+               vlas     := sanitized(col[9]);
+               vlink    := sanitized(col[10]);
                if vlink='' then vlink := exifval (id,2);
                if copy (vlink,1,4)<>'http'
                then vlink := '';
 
-               phcredit := '';//col[14];
+               phcredit := col[11];
                if phcredit='' then phcredit := exifval (id,3);
+               writeln (exifval(id,1),' ',imgf, ' ' ,vlink,' ',phcredit);
 
-               imgf := imgfile (col[5]);
-               geometry := geomrevert (col[4]);
+               geometry := geomrevert (col[1]);
 
-               desc1 := parasplit (sanitized(col[15]));
-               desc2 := parasplit (sanitized(col[16]));
+               desc1 := parasplit (sanitized(col[12]));
+               desc2 := parasplit (sanitized(col[13]));
 
                if apos=0 then writeln ('!! author not found (',id,'): ',fn,' ',ln);
 
                if imgf=''
-               then writeln ('!! image not found  : ',col[5])
+               then writeln ('!! image not found  : ',col[2])
                else begin
-                      writeln (f,'cp "photo/',imgf,'" ../../images/',col[5],'.jpg');
+                      writeln (f,'cp "photo/',imgf,'" ../../images/',col[2],'.jpg');
                       imgf := copy (imgf,1,4)+'.jpg'
                     end
              end;

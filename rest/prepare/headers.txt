@@ -1,37 +1,29 @@
 slikari
 -------------
-  8 ! #2758 ! field name
+  3 ! #2758 ! field name
   1 !   34 ! naziv
-  2 !   50 ! godina rođenja/ smrti ili  nešto što određuje narativ, ako nije ličnost u pitanju. Ovoče se pojaviti pored imena
+  2 !   50 ! godina/mjesto rođenja/ smrti
   3 !  2758 ! sadržaj
-  4 !    0 ! 
-  5 !    0 ! naziv narativa: to može da bude npr. Autor (biografski podaci) , itinerer koji povezuje izabrane tačke ili nešto drugo;
-  6 !    0 ! tekst narativne cjeline. Uz ovaj tekst bi trebalo da se prikazuje segment mappe koji sadrži tačke koje se za njega vezuju. Odavde bi trebalo da se može direktno poći
-  7 !    0 ! ""unutrašnji"" linkovi + opis
-  8 !    0 ! spoljnji linkovi + opis
 
 points
 -------------
- 21 ! #1329 ! field name
-  1 !    3 ! redni broj
-  2 !    0 ! Column1
-  3 !    0 ! thumb
-  4 !   39 ! koordinate
-  5 !    4 ! id. Broj
-  6 !   64 ! naziv djela
-  7 !   23 ! ime autora
-  8 !   23 ! prezime autora
-  9 !    8 ! godina nastanka
- 10 !   35 ! tehnika
- 11 !   12 ! format
- 12 !   78 ! vlasnik
- 13 !   68 ! link vlasnik
- 14 !   25 ! foto kredits
- 15 !  794 ! glavni narativ uz djelo )pojavljije se kao prvi pasus)
- 16 !  1329 ! sekundarni narativ uz djelo, slijedi nakon prvog, služi obično da se povežu pojedine tačke
- 17 !   75 ! narativ za koji se veže. Ako ih ima više razdvojiti ih sa tačka zarez, npr: Miunović Milo;Boka kotorska; ovo se pojavljuje nakon teksta o jedinici
- 18 !    0 ! Column2
- 19 !    0 ! Column3
- 20 !    0 ! Column4
- 21 !    0 ! Column5
+ 18 ! #1329 ! field name
+  1 !   39 ! koordinate
+  2 !    4 ! id. Broj
+  3 !   78 ! naziv djela
+  4 !   23 ! ime autora
+  5 !   23 ! prezime autora
+  6 !   10 ! godina nastanka
+  7 !   39 ! tehnika
+  8 !   12 ! format
+  9 !   69 ! vlasnik
+ 10 !    0 ! link vlasnik
+ 11 !   64 ! foto kredits
+ 12 !  822 ! glavni narativ uz djelo )pojavljije se kao prvi pasus)
+ 13 !  1329 ! sekundarni narativ uz djelo, slijedi nakon prvog, služi obično da se povežu pojedine tačke
+ 14 !   75 ! narativ za koji se veže. Ako ih ima više razdvojiti ih sa tačka zarez, npr: Miunović Milo;Boka kotorska; ovo se pojavljuje nakon teksta o jedinici
+ 15 !    0 ! Column2
+ 16 !    0 ! Column3
+ 17 !    0 ! Column4
+ 18 !    0 ! Column5
 
