@@ -1,26 +1,26 @@
 slikari
 -------------
-  3 ! #2758 ! field name
+  3 ! #2728 ! field name
   1 !   34 ! naziv
   2 !   50 ! godina/mjesto rođenja/ smrti
-  3 !  2758 ! sadržaj
+  3 !  2728 ! sadržaj
 
 points
 -------------
- 18 ! #1329 ! field name
+ 18 ! #1335 ! field name
   1 !   39 ! koordinate
   2 !    4 ! id. Broj
   3 !   78 ! naziv djela
   4 !   23 ! ime autora
   5 !   23 ! prezime autora
   6 !   10 ! godina nastanka
-  7 !   39 ! tehnika
+  7 !   40 ! tehnika
   8 !   12 ! format
   9 !   69 ! vlasnik
  10 !    0 ! link vlasnik
  11 !   64 ! foto kredits
- 12 !  822 ! glavni narativ uz djelo )pojavljije se kao prvi pasus)
- 13 !  1329 ! sekundarni narativ uz djelo, slijedi nakon prvog, služi obično da se povežu pojedine tačke
+ 12 !  1087 ! glavni narativ uz djelo )pojavljije se kao prvi pasus)
+ 13 !  1335 ! sekundarni narativ uz djelo, slijedi nakon prvog, služi obično da se povežu pojedine tačke
  14 !   75 ! narativ za koji se veže. Ako ih ima više razdvojiti ih sa tačka zarez, npr: Miunović Milo;Boka kotorska; ovo se pojavljuje nakon teksta o jedinici
  15 !    0 ! Column2
  16 !    0 ! Column3

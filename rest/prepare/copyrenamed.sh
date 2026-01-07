@@ -79,6 +79,7 @@ cp "photo/1104_Gurlitt, Louis_Pogled na mletačku tvrđavu Kotor_1879.jpg" ../.
 cp "photo/1105_Hermann_Corrodi_Le_Bocche_di_Cattaro.jpg" ../../images/1105.jpg
 cp "photo/1106_Hugo Chleremont_Put od Kotora ka Cetinu_1892.jpg" ../../images/1106.jpg
 cp "photo/1107_Ilustrated London News1869 .jpg" ../../images/1107.jpg
+cp "photo/1108_.jpg" ../../images/1108.jpg
 cp "photo/1111_Kargl_Rudolf_Kotor_Cathedral.jpg" ../../images/1111.jpg
 cp "photo/1112_Lubarda Petar Lubarda Kuća u Prčanju_1947.jpg" ../../images/1112.jpg
 cp "photo/1113_Mario Maskareli Prčanj 1953 .jpg" ../../images/1113.jpg
@@ -199,6 +200,8 @@ cp "photo/1427_Herman Corrodi, Motiv iz Crne Gore .jpg" ../../images/1427.jpg
 cp "photo/1428_Edward Lear.jpg" ../../images/1428.jpg
 cp "photo/1429_Edward Lear_Montenegro.jpg" ../../images/1429.jpg
 cp "photo/1430_Edward Lear.jpg" ../../images/1430.jpg
+cp "photo/1431_Adolf Chelius.jpg" ../../images/1431.jpg
+cp "photo/1432_J. Fray_Nikšić.jpg" ../../images/1432.jpg
 cp "photo/1501_Ilija Šobajic, Spuška Glavica, crtež olovkom na natron papiru, 45,5x31.jpg" ../../images/1501.jpg
 cp "photo/1502_Jovan Kukic, Pljevlja, tempera na kartonu, 70x50.jpg" ../../images/1502.jpg
 cp "photo/1503_Luka Stankovic, Džamija sa sahat kulom, olovka na papitu, 47x35.jpg" ../../images/1503.jpg
@@ -252,7 +255,24 @@ cp "photo/1571_Lubarda Škola u Toploj.jpg" ../../images/1571.jpg
 cp "photo/1572_Milo Milunović Bajice.jpg" ../../images/1572.jpg
 cp "photo/1573_Milo Milunović Prčamj.jpg" ../../images/1573.jpg
 cp "photo/1574_P Lubarda Njeguši.jpg" ../../images/1574.jpg
-cp "photo/1432_J. Fray_Nikšić.jpg" ../../images/1432.jpg
-cp "photo/1431_Adolf Chelius.jpg" ../../images/1431.jpg
-cp "photo/1108_.jpg" ../../images/1108.jpg
+cp "photo/1600_Djuric_Puro_Budva nakon zemljotresa_1979.jpg" ../../images/1600.jpg
+cp "photo/1601_Djuric_Puro_Budva_04_1992_11x29_uljenaP.jpg" ../../images/1601.jpg
+cp "photo/1602_Djuric_Puro_Gospa od Skrpjela_2001_ulje na p_40x60.jpg" ../../images/1602.jpg
+cp "photo/1603_Djuric_Puro_Koralni grad_1962_ulje na platnu_50x40.jpg" ../../images/1603.jpg
+cp "photo/1604_Djuric_Puro_Kuća Ivana Crnojevića_1974_37x30_ulje.jpg" ../../images/1604.jpg
+cp "photo/1605_Djuric_Puro_Perast_2006_72x100_ulje na p.jpg" ../../images/1605.jpg
+cp "photo/1650_Janković_Filip_1Motiv iz Perasta_2004_ulje_37x50.jpg" ../../images/1650.jpg
+cp "photo/1651_Janković_Filip_Dobrota_2003_60x75_ulje.jpg" ../../images/1651.jpg
+cp "photo/1652_Janković_Filip_Herceg Novi_2006_50x60_ulje.jpg" ../../images/1652.jpg
+cp "photo/1653_Janković_Filip_Iz Rafailovića_37x50_2005.jpg" ../../images/1653.jpg
+cp "photo/1654_Janković_Filip_Iz Rafailovića_37x50_ulje_2002.jpg" ../../images/1654.jpg
+cp "photo/1655_Janković_Filip_Kotor60x70_2002.jpg" ../../images/1655.jpg
+cp "photo/1656_Janković_Filip_Morača kod Duklje_37x50_2001.jpg" ../../images/1656.jpg
+cp "photo/1659_Janković_Filip_Perast_2002_70x90_ulje.jpg" ../../images/1659.jpg
+cp "photo/1660_Janković_Filip_Podgorica_1980_75x95.jpg" ../../images/1660.jpg
+cp "photo/1661_Janković_Filip_Primorski motiv_60x75_ulje_2005.jpg" ../../images/1661.jpg
+cp "photo/1662_Janković_Filip_Rafailovići_2007_80x75_ulje.jpg" ../../images/1662.jpg
+cp "photo/1663_Janković_Filip_Ribnica kod banje_30x49_ulje_1997.jpg" ../../images/1663.jpg
+cp "photo/1665_Janković_Filip_Stara varoš_1980_ulje_60x80.jpg" ../../images/1665.jpg
+cp "photo/1666_Janković_Filip_Stari mlini_2004_ulje_75x60.jpg" ../../images/1666.jpg
 ./exif.sh
