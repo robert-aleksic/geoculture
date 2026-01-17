@@ -129,7 +129,7 @@ var
                     p := pos (':',s);
                     val[t] := copy (s,p+2,length(s)-p-1);
                     if t=1 then fn := copy (val[1],1,4);
-                    writeln (fn,' ',t, ' ',val[t])
+                    //writeln (fn,' ',t, ' ',val[t])
                   end
            end;
            close (f)
@@ -299,7 +299,7 @@ begin
 
                phcredit := col[11];
                if phcredit='' then phcredit := exifval (id,3);
-               writeln (exifval(id,1),' ',imgf, ' ' ,vlink,' ',phcredit);
+               //writeln (exifval(id,1),' ',imgf, ' ' ,vlink,' ',phcredit);
 
                geometry := geomrevert (col[1]);
 
