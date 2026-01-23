@@ -197,7 +197,7 @@
     t1g.setAttribute ('class','spotlight');
     t1g.setAttribute ('data-animation','fade');
     t1g.setAttribute ('data-src',pr.img);
-    t1g.setAttribute ('data-description',pr.name+
+    t1g.setAttribute ('data-description',pr.fn+' '+pr.ln+': '+pr.name+
       ((pr.year!="") ? ", "+pr.year : "")+
       ((pr.teh!="") ? ", "+pr.teh : "") +
       ((pr.format!="") ? ", "+pr.format : "")+
@@ -220,7 +220,7 @@
             t1a[i].setAttribute ('class','spotlight');
             t1a[i].setAttribute ('data-animation','fade');
             t1a[i].setAttribute ('data-src',tpr.img);
-            t1a[i].setAttribute ('data-description',tpr.name+
+            t1a[i].setAttribute ('data-description',tpr.fn+' '+tpr.ln+': '+tpr.name+
               ((tpr.year!="") ? ", "+tpr.year : "")+
               ((tpr.teh!="") ? ", "+tpr.teh : "") +
               ((tpr.format!="") ? ", "+tpr.format : "")+
@@ -231,9 +231,7 @@
         t1g.appendChild(t1temp);
         };
       }
-      t1.appendChild(t1g);
-
-    //t1.appendChild (t1temp);
+    t1.appendChild(t1g);
 
     if (pr.phcredit) {
       let t1pc = document.createElement('small');
