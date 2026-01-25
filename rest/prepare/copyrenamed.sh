@@ -39,6 +39,7 @@ cp "photo/1059_Stanković _Luka_Savina.jpg" ../../images/1059.jpg
 cp "photo/1060_Stanković Luka _Budva.jpg" ../../images/1060.jpg
 cp "photo/1061_Stanković Luka Kula u Plavu.jpg" ../../images/1061.jpg
 cp "photo/1062_Stanković Luka_Žabljak_1950.jpg" ../../images/1062.jpg
+cp "photo/1063_Vujović Savo Herceg Novi.jpg" ../../images/1063.jpg
 cp "photo/1064_Vujović Savo Igalo 1949.jpg" ../../images/1064.jpg
 cp "photo/1065_Vujović Savo_Stijena.jpg" ../../images/1065.jpg
 cp "photo/1066_Vujović Savo_Ulcinj_1963.jpg" ../../images/1066.jpg
@@ -122,6 +123,7 @@ cp "photo/1156_Karlavaris Bogumil.jpg" ../../images/1156.jpg
 cp "photo/1158_Krizman Tomislav_Stara Podgorica_1951.jpg" ../../images/1158.jpg
 cp "photo/1159_Luka Sstanković_Herceg Novi, .jpg" ../../images/1159.jpg
 cp "photo/1160_Luka Stanković_Njeguši.jpg" ../../images/1160.jpg
+cp "photo/1161_Milunović Milo Vranjina.jpg" ../../images/1161.jpg
 cp "photo/1163_Milunović Milo_Orlov krš.jpg" ../../images/1163.jpg
 cp "photo/1164_Milunović_Milo_Motiv sa primorja.jpg" ../../images/1164.jpg
 cp "photo/1165_Milunović_Milo_Sveti Stefan_001.jpg" ../../images/1165.jpg
@@ -155,6 +157,7 @@ cp "photo/1194_Đokić_Voislav_Prčanj.jpg" ../../images/1194.jpg
 cp "photo/1195_Đuranović Mato Stari mlinovi.jpg" ../../images/1195.jpg
 cp "photo/1196_Ivanović Ljuba Stari Bar.jpg" ../../images/1196.jpg
 cp "photo/1197_Jakac Božidar Pogled sa Cetinja na Lovćen.jpg" ../../images/1197.jpg
+cp "photo/1198_Kovačević Branko Motiv iz Budve.jpg" ../../images/1198.jpg
 cp "photo/1199_Lubarda Vera Cetinje sa Lovćenom.jpg" ../../images/1199.jpg
 cp "photo/1200_Brajović_ Ljubo_ Pejzaž sa Ribnice_ 1981.jpg" ../../images/1200.jpg
 cp "photo/1202_Lubarda Peta_Kosmač.jpg" ../../images/1202.jpg
@@ -182,6 +185,7 @@ cp "photo/1402_Budva.jpg" ../../images/1402.jpg
 cp "photo/1403_Castel Lastva.jpg" ../../images/1403.jpg
 cp "photo/1404_Herceg Novi.jpg" ../../images/1404.jpg
 cp "photo/1405_Cetinjski manastir.jpg" ../../images/1405.jpg
+cp "photo/1406_Cetinje.jpg" ../../images/1406.jpg
 cp "photo/1407_ Pogled na Boka Kotorska.jpg" ../../images/1407.jpg
 cp "photo/1408_Castel Nuovo.jpg" ../../images/1408.jpg
 cp "photo/1409_Zaliv između Budve i Sv Stefana.jpg" ../../images/1409.jpg
@@ -196,10 +200,12 @@ cp "photo/1417_Michael_Zeno_Diemer_Bucht_von_Cattaro.jpg" ../../images/1417.jpg
 cp "photo/1418_Oldřich_Koníček_Boka_Kotorská.jpg" ../../images/1418.jpg
 cp "photo/1419_Port_de_Cattaro.jpg" ../../images/1419.jpg
 cp "photo/1420_Vue_de_Perasto_dans_le_golfe_de_Kotor.jpg" ../../images/1420.jpg
+cp "photo/1421_Podmornica u Bokokotorskom zalivu u Crnoj Gori.jpg" ../../images/1421.jpg
 cp "photo/1422_Karl Ludwig Prinz_Hafen_von_Virbazar.jpg" ../../images/1422.jpg
 cp "photo/1423_Alfred_Zoff_Küste_bei_Herzeg_Novi_1926.jpg" ../../images/1423.jpg
 cp "photo/1424_Rach Gustav.jpg" ../../images/1424.jpg
 cp "photo/1425_Anton Perko, Kotor, 1875.jpg" ../../images/1425.jpg
+cp "photo/1426_Herman Corrodi, Jezerski pejzaž sa figurma, oko 1900 .jpg" ../../images/1426.jpg
 cp "photo/1427_Herman Corrodi, Motiv iz Crne Gore .jpg" ../../images/1427.jpg
 cp "photo/1428_Edward Lear.jpg" ../../images/1428.jpg
 cp "photo/1429_Edward Lear_Montenegro.jpg" ../../images/1429.jpg
@@ -212,6 +218,10 @@ cp "photo/1435_H novi1.jpg" ../../images/1435.jpg
 cp "photo/1436_Budva Linassi.jpg" ../../images/1436.jpg
 cp "photo/1437_Castel Nuovo1.jpg" ../../images/1437.jpg
 cp "photo/1438_Cattaro.jpg" ../../images/1438.jpg
+cp "photo/1439_Chiesa reca St. Savina 41x56 litografija Stolz, G..jpg" ../../images/1439.jpg
+cp "photo/1440_Flottendemonstration, 1880.jpg" ../../images/1440.jpg
+cp "photo/1441_MACKENZIE(1877.jpg" ../../images/1441.jpg
+cp "photo/1442_MACKENZIE.jpg" ../../images/1442.jpg
 cp "photo/1501_Ilija Šobajic, Spuška Glavica, crtež olovkom na natron papiru, 45,5x31.jpg" ../../images/1501.jpg
 cp "photo/1502_Jovan Kukic, Pljevlja, tempera na kartonu, 70x50.jpg" ../../images/1502.jpg
 cp "photo/1503_Luka Stankovic, Džamija sa sahat kulom, olovka na papitu, 47x35.jpg" ../../images/1503.jpg
@@ -292,6 +302,7 @@ cp "photo/1662_Janković_Filip_Rafailovići_2007_80x75_ulje.jpg" ../../images/
 cp "photo/1663_Janković_Filip_Ribnica kod banje_30x49_ulje_1997.jpg" ../../images/1663.jpg
 cp "photo/1665_Janković_Filip_Stara varoš_1980_ulje_60x80.jpg" ../../images/1665.jpg
 cp "photo/1666_Janković_Filip_Stari mlini_2004_ulje_75x60.jpg" ../../images/1666.jpg
+cp "photo/1668_Morača_Janković_Filip_18.jpg" ../../images/1668.jpg
 cp "photo/1701_Lubarda_Petar.jpg" ../../images/1701.jpg
 cp "photo/1702_Lubarda_Petar_Porušeno selo Čekanje_2.jpg" ../../images/1702.jpg
 cp "photo/1703_Lubarda_Petar Crna Greda.jpg" ../../images/1703.jpg
@@ -303,4 +314,7 @@ cp "photo/1753_Brajović Anastasija Ivanova korita.jpg" ../../images/1753.jpg
 cp "photo/1754_Krizman Tomislav_Budva_33x47.5 1936.jpg" ../../images/1754.jpg
 cp "photo/1755_Krizman Tomislav_Ulcinj.jpg" ../../images/1755.jpg
 cp "photo/1756_Maskareli M 100x100 1961.jpg" ../../images/1756.jpg
+cp "photo/1756_Maskareli M 100x100 1961.jpg" ../../images/1756.jpg
+cp "photo/1757_ Budva Slovinić 065.jpg" ../../images/1757.jpg
+cp "photo/1758_Pavlović Milo Nad Biljardom_1979.jpg" ../../images/1758.jpg
 ./exif.sh

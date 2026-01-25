@@ -1,8 +1,8 @@
 slikari
 -------------
   3 ! #2728 ! field name
-  1 !   34 ! naziv
-  2 !   50 ! godina/mjesto rođenja/ smrti
+  1 !   51 ! naziv
+  2 !   52 ! godina/mjesto rođenja/ smrti
   3 !  2728 ! sadržaj
 
 points
@@ -10,8 +10,8 @@ points
  18 ! #1335 ! field name
   1 !   39 ! koordinate
   2 !    4 ! id. Broj
-  3 !   78 ! naziv djela
-  4 !   23 ! ime autora
+  3 !   80 ! naziv djela
+  4 !   51 ! ime autora
   5 !   23 ! prezime autora
   6 !   10 ! godina nastanka
   7 !   40 ! tehnika
