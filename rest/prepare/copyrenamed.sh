@@ -179,6 +179,34 @@ cp "photo/1256_Stanković_Luka Petrovac.jpg" ../../images/1256.jpg
 cp "photo/1257_Teodorović Đurđe Zora nad Bokom.jpg" ../../images/1257.jpg
 cp "photo/1258_Živković Milentije Lesendro.jpg" ../../images/1258.jpg
 cp "photo/1259_Lubarda _Petar_ Ukršteni putevi.jpg" ../../images/1259.jpg
+cp "photo/1303_Miloš Vušković, Željezara (1959), ulje na platnu, 101 x 70 cm.jpg" ../../images/1303.jpg
+cp "photo/1304_Miloš Vušković, Iz Cetinja (1957), ulje na lesonitu, 70 x 100 cm.jpg" ../../images/1304.jpg
+cp "photo/1305_Aco Prijić, Skadarsko jezero (1955), ulje na platnu, 90 x 100 cm.jpg" ../../images/1305.jpg
+cp "photo/1307_Jovan Križek, Brana Liverovići (1958), akvarel, 34 x 48 cm.JPG" ../../images/1307.jpg
+cp "photo/1308_Miodrag Nagorni, Put za Šavnik (1960), Lavirani tuš, 39 x 55 cm.JPG" ../../images/1308.jpg
+cp "photo/1309_Žarko Perović, Nikšić, tuš i pero,55,5 x 40 cm.JPG" ../../images/1309.jpg
+cp "photo/1310_Vojo Stanić, Tvrđava (1985), ulje na platnu, 102 x 86 cm.jpg" ../../images/1310.jpg
+cp "photo/1311_Miloš Vušković, Katun na Durmitoru (1955), ulje na platnu, 89 x 130 cm.jpg" ../../images/1311.jpg
+cp "photo/1312_Mirko Kujačić,  Rodna kuća Nikole Kovačevića (1965), ulje na platnu, 65 x 81 cm.jpg" ../../images/1312.jpg
+cp "photo/1313_Milenko Sindik, Perast (1956), tempera na lesonitu, 33 x 46 cm.jpg" ../../images/1313.jpg
+cp "photo/1314_Zeng Jie.JPG" ../../images/1314.jpg
+cp "photo/1315_Zeng Jie.JPG" ../../images/1315.jpg
+cp "photo/1317_Ju Long.JPG" ../../images/1317.jpg
+cp "photo/1318_Nikšić.jpg" ../../images/1318.jpg
+cp "photo/1319_Pogled na Nikšić.jpg" ../../images/1319.jpg
+cp "photo/1320_Straševina.jpg" ../../images/1320.jpg
+cp "photo/1321_Džamija.jpg" ../../images/1321.jpg
+cp "photo/1322_Ulcinj.jpg" ../../images/1322.jpg
+cp "photo/1323_Cetinjski manastir.jpg" ../../images/1323.jpg
+cp "photo/1324_Perast.jpg" ../../images/1324.jpg
+cp "photo/1350_ GMS.JPG" ../../images/1350.jpg
+cp "photo/1351_ GMS.JPG" ../../images/1351.jpg
+cp "photo/1352_ GMS.JPG" ../../images/1352.jpg
+cp "photo/1353_ GMS.jpg" ../../images/1353.jpg
+cp "photo/1354_ GMS.jpg" ../../images/1354.jpg
+cp "photo/1355_ GMS.jpg" ../../images/1355.jpg
+cp "photo/1356_ GMS.jpg" ../../images/1356.jpg
+cp "photo/1357_ GMS.jpg" ../../images/1357.jpg
 cp "photo/1400_Pogled na Prčanj i Dobrotu.jpg" ../../images/1400.jpg
 cp "photo/1401_Bar.jpg" ../../images/1401.jpg
 cp "photo/1402_Budva.jpg" ../../images/1402.jpg
@@ -187,7 +215,7 @@ cp "photo/1404_Herceg Novi.jpg" ../../images/1404.jpg
 cp "photo/1405_Cetinjski manastir.jpg" ../../images/1405.jpg
 cp "photo/1406_Cetinje.jpg" ../../images/1406.jpg
 cp "photo/1407_ Pogled na Boka Kotorska.jpg" ../../images/1407.jpg
-cp "photo/1408_Castel Nuovo.jpg" ../../images/1408.jpg
+cp "photo/1408_Castel Nuovoa.jpg" ../../images/1408.jpg
 cp "photo/1409_Zaliv između Budve i Sv Stefana.jpg" ../../images/1409.jpg
 cp "photo/1410_Marina u Kotoru.jpg" ../../images/1410.jpg
 cp "photo/1411_Kotor.jpg" ../../images/1411.jpg
@@ -222,6 +250,7 @@ cp "photo/1439_Chiesa reca St. Savina 41x56 litografija Stolz, G..jpg" ../../ima
 cp "photo/1440_Flottendemonstration, 1880.jpg" ../../images/1440.jpg
 cp "photo/1441_MACKENZIE(1877.jpg" ../../images/1441.jpg
 cp "photo/1442_MACKENZIE.jpg" ../../images/1442.jpg
+cp "photo/1443_Borianni - Cattaro1829(1).jpg" ../../images/1443.jpg
 cp "photo/1501_Ilija Šobajic, Spuška Glavica, crtež olovkom na natron papiru, 45,5x31.jpg" ../../images/1501.jpg
 cp "photo/1502_Jovan Kukic, Pljevlja, tempera na kartonu, 70x50.jpg" ../../images/1502.jpg
 cp "photo/1503_Luka Stankovic, Džamija sa sahat kulom, olovka na papitu, 47x35.jpg" ../../images/1503.jpg
@@ -314,7 +343,29 @@ cp "photo/1753_Brajović Anastasija Ivanova korita.jpg" ../../images/1753.jpg
 cp "photo/1754_Krizman Tomislav_Budva_33x47.5 1936.jpg" ../../images/1754.jpg
 cp "photo/1755_Krizman Tomislav_Ulcinj.jpg" ../../images/1755.jpg
 cp "photo/1756_Maskareli M 100x100 1961.jpg" ../../images/1756.jpg
-cp "photo/1756_Maskareli M 100x100 1961.jpg" ../../images/1756.jpg
 cp "photo/1757_ Budva Slovinić 065.jpg" ../../images/1757.jpg
 cp "photo/1758_Pavlović Milo Nad Biljardom_1979.jpg" ../../images/1758.jpg
+cp "photo/1759_Manastir Morača Dado.jpg" ../../images/1759.jpg
+cp "photo/1801_Zoran_Petrović_01.jpg" ../../images/1801.jpg
+cp "photo/1802_Zoran_Petrović_02.jpg" ../../images/1802.jpg
+cp "photo/1803_Zoran_Petrović_03.jpg" ../../images/1803.jpg
+cp "photo/1804_Zoran_Petrović_04.jpg" ../../images/1804.jpg
+cp "photo/1805_Zoran_Petrović_05.jpg" ../../images/1805.jpg
+cp "photo/1806_Zoran_Petrović_06.jpg" ../../images/1806.jpg
+cp "photo/1808_Zoran_Petrović_08.jpg" ../../images/1808.jpg
+cp "photo/1809_Zoran_Petrović_09.jpg" ../../images/1809.jpg
+cp "photo/1810_Zoran_Petrović_10.jpg" ../../images/1810.jpg
+cp "photo/1811_Zoran_Petrović_11.jpg" ../../images/1811.jpg
+cp "photo/1812_Zoran_Petrović_13.jpg" ../../images/1812.jpg
+cp "photo/1813_Zoran_Petrović_14.jpg" ../../images/1813.jpg
+cp "photo/1814_Zoran_Petrović_15.jpg" ../../images/1814.jpg
+cp "photo/1815_Zoran_Petrović_16.jpg" ../../images/1815.jpg
+cp "photo/1816_Zoran_Petrović_17.jpg" ../../images/1816.jpg
+cp "photo/1817_Zoran_Petrović_19.jpg" ../../images/1817.jpg
+cp "photo/1818_Zoran_Petrović_20.jpg" ../../images/1818.jpg
+cp "photo/1819_Zoran_Petrović_21.jpg" ../../images/1819.jpg
+cp "photo/1820_Zoran_Petrović_22.jpg" ../../images/1820.jpg
+cp "photo/1821_Zoran_Petrović_23.jpg" ../../images/1821.jpg
+cp "photo/1822_Zoran_Petrović_24.jpg" ../../images/1822.jpg
+cp "photo/1823_Zoran_Petrović_25.jpg" ../../images/1823.jpg
 ./exif.sh
