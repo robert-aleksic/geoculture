@@ -1,12 +1,12 @@
 # geoculture
 
-* geoculture folder structure
+## geoculture folder structure
 
 - data (excel, points.csv, slikari.csv, images, starting with four numbers)
 - prep (exif, prep (create poi.js), copyrenamed)
 - site (static site contents)
 
-* update procedure
+## update procedure
 
 - sync with git
   - cd data; git pull
