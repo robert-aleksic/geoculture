@@ -1,1 +1,0 @@
-exiftool photo/*.* >exif.txt
