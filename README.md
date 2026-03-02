@@ -9,7 +9,6 @@
 - create geoculture folder and clone geoculture, geoculture_prep and geoculture_data into it (git clone git@github.com:robert-aleksic/geoculturexxx)
 - rename folders to site, prep and data respectively
 
-
 ## geoculture folder structure
 
 - data (excel, points.csv, slikari.csv, images starting with four numbers)
@@ -30,8 +29,10 @@
     - beware of empty columns
 
 - change folder to prep
-  - if needed compile prep (fpc -Fuunits prep; delp . units)
-  - run run.sh (exif, prep and copyrenamed)
+  - if needed compile prep.pas (compile.bat)
+  - run exif for metadata
+  - run prep for poi.js on site
+  - run copyrenamed for images on site
 
 - change folder to site
   - check if site is ok in browser (open index.html file), copmpare with geoculture.me
@@ -39,4 +40,3 @@
 - push data and site to git
   - cd data; git add .; git commit -m 'update xx/xx/xxx'; git push; cd ..
   - cd site; git add .; git commit -m 'update xx/xx/xxx'; git push; cd ..
-
