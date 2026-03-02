@@ -8,6 +8,7 @@
 - install ssh and generate rsa key for git accesss (and add ssh key to your github account)
 - create geoculture folder and clone geoculture, geoculture_prep and geoculture_data into it (git clone git@github.com:robert-aleksic/geoculturexxx)
 - rename folders to site, prep and data respectively
+- set utf-8 code page on windows
 
 ## geoculture folder structure
 
@@ -30,9 +31,10 @@
 
 - change folder to prep
   - if needed compile prep.pas (compile.bat)
-  - run exif for metadata
-  - run prep for poi.js on site
-  - run copyrenamed for images on site
+  - run run.bat, which in turn
+    - runs exif for metadata
+    - runs prep for poi.js on site
+    - runs copyrenamed for images on site
 
 - change folder to site
   - check if site is ok in browser (open index.html file), copmpare with geoculture.me
