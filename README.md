@@ -1,6 +1,7 @@
-# geoculture
+# geoculture install and usage procedure
 
 ## preparing for work
+- set utf-8 code page on windows
 - install libre office from https://www.libreoffice.org/
 - install exiftool from https://exiftool.org/
 - install freepascal from https://www.freepascal.org/
@@ -8,35 +9,33 @@
 - install ssh and generate rsa key for git accesss (and add ssh key to your github account)
 - create geoculture folder and clone geoculture, geoculture_prep and geoculture_data into it (git clone git@github.com:robert-aleksic/geoculturexxx)
 - rename folders to site, prep and data respectively
-- set utf-8 code page on windows
 
 ## geoculture folder structure
-
 - data (excel, points.csv, slikari.csv, images starting with four numbers)
 - prep (exif, prep (create poi.js), copyrenamed)
 - site (static site contents)
 
 ## update procedure
+- go to terminal and change folder to prep
+- run _gitpullall_ to get git data to local folders
 
-- pull everything from git or _gitpullall_ from prep folder
-  - cd data; git pull; cd ..
-  - cd prep; git pull; cd ..
-  - cd site; git pull; cd ..
-
-- change folder to data
-  - copy excel to data
-  - export two sheets to points.csv, slikari.csv in data with libreoffice
+- prepare csv's
+  - copy latest excel to data folder
+  - use libreoffice to export sheets to points.csv and slikari.csv in data folder
     _(character set utf-8, separator tab, save cells as shown, quote all text cells)_
 
-- change folder to prep
+- prepare site
   - if needed compile prep.pas (compile.bat)
   - run run.bat, which in turn
-    - runs exif for metadata
-    - runs prep for poi.js on site
-    - runs copyrenamed for images on site
-
-- check if site is ok in browser (open index.html file from site folde), copmpare with geoculture.me
+    - runs _exif_ for metadata
+    - runs _prep_ for poi.js on site
+    - runs _copyrenamed_ for images on site
+  - check if site is ok in browser (open index.html file from site folde), copmpare with geoculture.me
 
 - when done, push data and site to git
-  - git -C ../data add .; git -C ../data commit -m 'update xx/xx/xxx'; git push
-  - git -C ../site add .; git -C ../site commit -m 'update xx/xx/xxx'; git push
+  - cd ../data; git add .; git commit -m 'update xx/xx/xxx'; git push
+  - cd ../site; git add .; git commit -m 'update xx/xx/xxx'; git push
+  - cd ../prep
+
+## notes
+- if git pull fails because of changed files use _git stash_
