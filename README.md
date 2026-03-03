@@ -1,7 +1,6 @@
 # geoculture install and usage procedure
 
 ## preparing for work
-- set utf-8 code page on windows
 - install libre office from https://www.libreoffice.org/
 - install exiftool from https://exiftool.org/
 - install freepascal from https://www.freepascal.org/
@@ -18,12 +17,10 @@
 ## update procedure
 - go to terminal and change folder to prep
 - run _gitpullall_ to get git data to local folders
-
 - prepare csv's
   - copy latest excel to data folder
   - use libreoffice to export sheets to points.csv and slikari.csv in data folder
     _(character set utf-8, separator tab, save cells as shown, quote all text cells)_
-
 - prepare site
   - if needed compile prep.pas (compile.bat)
   - run run.bat, which in turn
@@ -31,11 +28,10 @@
     - runs _prep_ for poi.js on site
     - runs _copyrenamed_ for images on site
   - check if site is ok in browser (open index.html file from site folde), copmpare with geoculture.me
-
 - when done, push data and site to git
   - cd ../data; git add .; git commit -m 'update xx/xx/xxx'; git push
   - cd ../site; git add .; git commit -m 'update xx/xx/xxx'; git push
   - cd ../prep
 
 ## notes
-- if git pull fails because of changed files use _git stash_
+- if _git pull_ fails because of changed files use _git stash_ before _git pull_
