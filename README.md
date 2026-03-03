@@ -18,7 +18,7 @@
 
 ## update procedure
 
-- pull everything from git
+- pull everything from git or _gitpullall_ from prep folder
   - cd data; git pull; cd ..
   - cd prep; git pull; cd ..
   - cd site; git pull; cd ..
@@ -26,8 +26,7 @@
 - change folder to data
   - copy excel to data
   - export two sheets to points.csv, slikari.csv in data with libreoffice
-    - beware of unclosed quotes, change them to apostrophe if needed i'll sort it out later
-    - beware of empty columns
+    _(character set utf-8, separator tab, save cells as shown, quote all text cells)_
 
 - change folder to prep
   - if needed compile prep.pas (compile.bat)
@@ -36,9 +35,8 @@
     - runs prep for poi.js on site
     - runs copyrenamed for images on site
 
-- change folder to site
-  - check if site is ok in browser (open index.html file), copmpare with geoculture.me
+- check if site is ok in browser (open index.html file from site folde), copmpare with geoculture.me
 
-- push data and site to git
-  - cd data; git add .; git commit -m 'update xx/xx/xxx'; git push; cd ..
-  - cd site; git add .; git commit -m 'update xx/xx/xxx'; git push; cd ..
+- when done, push data and site to git
+  - git -C ../data add .; git -C ../data commit -m 'update xx/xx/xxx'; git push
+  - git -C ../site add .; git -C ../site commit -m 'update xx/xx/xxx'; git push
